@@ -1,0 +1,24 @@
+# Virtual environments
+.venv/
+.venv-1/
+.venv-2/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large media/data
+audio/
+video/
+*.joblib
+
+# Nested repo (handle separately - see note below)
+whisper/
+
+# Environment secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,8 @@
+ This is a recursion course. Here are video subtitle chunks containing video title, video number, start time in secconds, end time in seconds the text at that :
+
+[{"title":"Print numbers in decreasing order","number":" 2","start":272.96,"end":276.96,"text":" We have to understand that we call the stack."},{"title":" Last Occurrence","number":" 10","start":308.04,"end":311.04,"text":" What will happen in the core of the stack?"},{"title":"Print numbers in decreasing order","number":" 2","start":283.96,"end":289.96,"text":" If you keep the books on one page or on the other page, then it becomes stack in English."},{"title":"Print numbers in decreasing order","number":" 2","start":400.96,"end":403.96,"text":" Call stack will be placed in a call."},{"title":"Print numbers in decreasing order","number":" 2","start":326.96,"end":331.96,"text":" So, the memory inside the stack is actually stored in the form of a stack."}]
+
+-----------------------------------------------------
+
+"Where is stack taught?"
+User asked this question related to the video chunks, you have to answer in a human way (don't mention the above format, its only for you) where and how much content is taught in which video (in which video at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, then tell him that you can only answer questions related to course.

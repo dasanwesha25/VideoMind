@@ -1,0 +1,2483 @@
+{
+    "chunks": [
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 0.0,
+            "end": 5.4,
+            "text": " Next question is if we want to check whether our given array is sorted or not"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 5.4,
+            "end": 9.5,
+            "text": " Let's take an example 1 2 3 4 and 5"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 9.5,
+            "end": 12.700000000000001,
+            "text": " If I analyze this array, then it is sorted"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 13.4,
+            "end": 15.1,
+            "text": " But I know how to do it"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 15.1,
+            "end": 19.2,
+            "text": " We can do something like this that we will compare each pair"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 19.2,
+            "end": 21.900000000000002,
+            "text": " If we compare this pair"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 22.900000000000002,
+            "end": 24.8,
+            "text": " So 1 value is less than 2"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 24.8,
+            "end": 29.6,
+            "text": " This sorted is the ascending order sorted by the ascending order"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 30.0,
+            "end": 32.0,
+            "text": " This pair will return to true"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 32.0,
+            "end": 34.0,
+            "text": " It means that it is sorted so many parts"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 34.0,
+            "end": 37.0,
+            "text": " What we will do is we will call the rest of the recursions for the call"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 37.6,
+            "end": 41.0,
+            "text": " This part will be used to solve the recursions"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 41.400000000000006,
+            "end": 42.7,
+            "text": " Usually what we will do?"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 42.7,
+            "end": 44.5,
+            "text": " If we check whether it is sorted or not"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 44.5,
+            "end": 46.0,
+            "text": " Then we will put a loop"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 46.0,
+            "end": 47.0,
+            "text": " What was in the loop?"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 47.8,
+            "end": 49.5,
+            "text": " I is equal to 0"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 49.5,
+            "end": 52.1,
+            "text": " I less than n to the loop"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 52.1,
+            "end": 55.5,
+            "text": " And we will compare each other to our current I"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 55.5,
+            "end": 57.0,
+            "text": " This is less than n minus 1"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 57.0,
+            "end": 59.1,
+            "text": " Let's compare the A of I"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 59.1,
+            "end": 62.1,
+            "text": " That the value of I is equal to A of I plus 1"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 62.1,
+            "end": 65.2,
+            "text": " And as we get the true array"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 65.2,
+            "end": 66.2,
+            "text": " It is sorted"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 66.2,
+            "end": 68.2,
+            "text": " It is arranged in ascending order"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 68.7,
+            "end": 70.3,
+            "text": " Now it is very easy"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 70.3,
+            "end": 72.2,
+            "text": " The work of the loop is very easy"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 72.2,
+            "end": 75.2,
+            "text": " We will do it in the recursion form"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 75.2,
+            "end": 76.2,
+            "text": " How will we do it?"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 76.2,
+            "end": 77.4,
+            "text": " What will our logic be?"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 77.4,
+            "end": 78.9,
+            "text": " Our logic will be"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 78.9,
+            "end": 83.2,
+            "text": " We will compare I and I plus 1"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 84.10000000000001,
+            "end": 85.60000000000001,
+            "text": " And then we will see that"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 85.60000000000001,
+            "end": 88.3,
+            "text": " Is the array sorted after I plus 1"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 88.3,
+            "end": 90.3,
+            "text": " That means we will make a function"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 90.3,
+            "end": 90.8,
+            "text": " It is sorted"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 91.9,
+            "end": 92.9,
+            "text": " And sorted"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 92.9,
+            "end": 94.9,
+            "text": " The array of n size will be sorted"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 94.9,
+            "end": 96.60000000000001,
+            "text": " When it is A of 0"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 96.60000000000001,
+            "end": 98.10000000000001,
+            "text": " So less than A of 1"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 98.10000000000001,
+            "end": 99.10000000000001,
+            "text": " Plus"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 99.6,
+            "end": 101.30000000000001,
+            "text": " The part of the part of the loop"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 101.30000000000001,
+            "end": 103.60000000000001,
+            "text": " That is n minus 1 size"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 103.60000000000001,
+            "end": 104.60000000000001,
+            "text": " That will be sorted"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 104.60000000000001,
+            "end": 107.0,
+            "text": " We visualize it in the whole"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 107.0,
+            "end": 108.2,
+            "text": " What happened?"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 110.10000000000001,
+            "end": 112.10000000000001,
+            "text": " We have an array"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 113.9,
+            "end": 115.9,
+            "text": " What will we do?"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 115.9,
+            "end": 118.9,
+            "text": " We will see how much we will see"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 118.9,
+            "end": 119.9,
+            "text": " Is it sorted?"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 119.9,
+            "end": 121.4,
+            "text": " And for this later"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 121.4,
+            "end": 123.4,
+            "text": " We will call the recursive call"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 123.4,
+            "end": 125.4,
+            "text": " If we call the recursive call"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 125.4,
+            "end": 126.4,
+            "text": " This is sorted"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 126.4,
+            "end": 128.4,
+            "text": " We will return it from here"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 128.4,
+            "end": 129.4,
+            "text": " If it is sorted"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 129.4,
+            "end": 131.4,
+            "text": " If we have sorted something from this"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 131.4,
+            "end": 132.9,
+            "text": " We will return it"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 132.9,
+            "end": 133.9,
+            "text": " That the array is not sorted"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 133.9,
+            "end": 136.4,
+            "text": " So we calculated 1 and 2"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 136.4,
+            "end": 136.9,
+            "text": " That true"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 136.9,
+            "end": 138.9,
+            "text": " This is sorted 1 is less than 2"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 138.9,
+            "end": 140.8,
+            "text": " Now we will call this from this"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 140.8,
+            "end": 142.8,
+            "text": " For this, we will call it as"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 142.8,
+            "end": 145.0,
+            "text": " We will analyze 2 numbers in this"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 145.0,
+            "end": 147.0,
+            "text": " We will compare 2 to 3"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 147.0,
+            "end": 148.70000000000002,
+            "text": " 2 is less than 3"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 148.70000000000002,
+            "end": 149.70000000000002,
+            "text": " So this is true"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 149.70000000000002,
+            "end": 152.20000000000002,
+            "text": " Now we will call it as this"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 152.20000000000002,
+            "end": 154.0,
+            "text": " That is, for 3, 4, 5"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 154.0,
+            "end": 157.20000000000002,
+            "text": " For this, we will compare these 2 numbers"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 157.20000000000002,
+            "end": 158.70000000000002,
+            "text": " We will give it as true"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 158.70000000000002,
+            "end": 160.3,
+            "text": " That is, 3 is less than 4"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 160.3,
+            "end": 163.4,
+            "text": " Now we will call it as last 2 numbers"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 163.4,
+            "end": 164.4,
+            "text": " So these 2 numbers"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 164.4,
+            "end": 166.70000000000002,
+            "text": " We will compare them first"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 166.70000000000002,
+            "end": 168.20000000000002,
+            "text": " So we will give it as true"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 168.20000000000002,
+            "end": 169.70000000000002,
+            "text": " That is, 4 is less than 5"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 169.70000000000002,
+            "end": 172.20000000000002,
+            "text": " After this, we have to do this in this case"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 172.29999999999998,
+            "end": 174.0,
+            "text": " So what we have done"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 174.0,
+            "end": 176.5,
+            "text": " We have started comparing 2 numbers"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 176.5,
+            "end": 178.5,
+            "text": " And the other array"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 178.5,
+            "end": 180.5,
+            "text": " For that array, we will zoom"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 180.5,
+            "end": 182.5,
+            "text": " So that we will find out"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 182.5,
+            "end": 184.5,
+            "text": " That it is sorted or unsorted"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 184.5,
+            "end": 186.5,
+            "text": " So we will give the recursive function"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 186.5,
+            "end": 188.79999999999998,
+            "text": " In which we will give the function as"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 188.79999999999998,
+            "end": 189.79999999999998,
+            "text": " This sorted"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 189.79999999999998,
+            "end": 192.1,
+            "text": " In this sorted, we will have a parameter"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 192.1,
+            "end": 193.5,
+            "text": " Our integer"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 193.5,
+            "end": 194.5,
+            "text": " array"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 194.5,
+            "end": 196.5,
+            "text": " Apart from that, we will have"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 196.5,
+            "end": 198.5,
+            "text": " A integer i"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 198.5,
+            "end": 200.0,
+            "text": " i is the starting point"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 200.0,
+            "end": 202.0,
+            "text": " From where we will start to compare"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 203.0,
+            "end": 205.1,
+            "text": " So first we will compare"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 205.1,
+            "end": 208.1,
+            "text": " Array of i is less than equal to"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 208.1,
+            "end": 210.1,
+            "text": " Array of i plus 1"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 210.1,
+            "end": 211.5,
+            "text": " After that, we will call"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 211.5,
+            "end": 212.5,
+            "text": " This sorted"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 213.9,
+            "end": 214.7,
+            "text": " Array"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 214.7,
+            "end": 216.4,
+            "text": " And now we have to look from where"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 216.4,
+            "end": 218.4,
+            "text": " Now we have to look from i plus 1"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 218.4,
+            "end": 220.9,
+            "text": " For i, we have checked the condition of this sorted"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 220.9,
+            "end": 221.9,
+            "text": " i and i plus 1"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 221.9,
+            "end": 223.9,
+            "text": " We have compared the next level"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 223.9,
+            "end": 226.4,
+            "text": " i plus 1 and i plus 2 will compare"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 226.4,
+            "end": 228.9,
+            "text": " That is, we will compare this value to this value"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 228.9,
+            "end": 231.3,
+            "text": " From then on, from i plus 2 and i plus 3"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 231.3,
+            "end": 233.3,
+            "text": " That is, we will compare this value"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 233.3,
+            "end": 236.3,
+            "text": " So in this way, we will keep the pair of i's comparisons"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 236.3,
+            "end": 238.8,
+            "text": " And in this function, we can add the base case"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 238.8,
+            "end": 240.3,
+            "text": " The base case will be"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 240.3,
+            "end": 241.3,
+            "text": " At the point where"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 241.3,
+            "end": 243.3,
+            "text": " Our i will be"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 243.3,
+            "end": 247.8,
+            "text": " Array dot length minus 1 equal"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 247.8,
+            "end": 250.3,
+            "text": " So as soon as i's value is equal"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 250.3,
+            "end": 252.3,
+            "text": " Now we will not do any comparisons"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 252.3,
+            "end": 254.8,
+            "text": " So in this base case, we will always return the true"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 254.8,
+            "end": 256.3,
+            "text": " Once we write the code"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 256.3,
+            "end": 258.3,
+            "text": " Then we will analyze the call stack"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 258.40000000000003,
+            "end": 260.40000000000003,
+            "text": " So the code will be very clear"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 260.40000000000003,
+            "end": 261.90000000000003,
+            "text": " That we are actually doing"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 261.90000000000003,
+            "end": 263.0,
+            "text": " Let's make a function"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 263.0,
+            "end": 263.5,
+            "text": " Public"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 264.3,
+            "end": 265.1,
+            "text": " Static"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 266.40000000000003,
+            "end": 268.0,
+            "text": " Let's make it on Boolean type"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 268.0,
+            "end": 268.8,
+            "text": " This sorted"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 268.8,
+            "end": 269.8,
+            "text": " So we will check"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 269.8,
+            "end": 271.1,
+            "text": " And return the true"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 271.1,
+            "end": 272.6,
+            "text": " If the entire array is sorted"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 272.6,
+            "end": 273.8,
+            "text": " Return the false"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 273.8,
+            "end": 275.40000000000003,
+            "text": " If the entire array is not sorted"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 275.40000000000003,
+            "end": 277.8,
+            "text": " So here first of all, we have an area"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 278.3,
+            "end": 280.2,
+            "text": " And then we have another parameter"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 280.2,
+            "end": 281.2,
+            "text": " Our index i"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 282.1,
+            "end": 283.8,
+            "text": " Now what is the most important thing for us"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 283.8,
+            "end": 284.8,
+            "text": " We have to make it work"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 284.8,
+            "end": 287.1,
+            "text": " That i and i plus 1 will compare"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 287.20000000000005,
+            "end": 289.70000000000005,
+            "text": " So if the array of i"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 289.70000000000005,
+            "end": 291.40000000000003,
+            "text": " If it gets greater"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 291.40000000000003,
+            "end": 292.90000000000003,
+            "text": " From the area of i plus 1"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 293.3,
+            "end": 294.6,
+            "text": " So in this case, what we do"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 294.6,
+            "end": 296.3,
+            "text": " In that case, our array is not sorted"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 296.3,
+            "end": 298.8,
+            "text": " So here we will directly return the false"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 300.1,
+            "end": 301.5,
+            "text": " But if this true"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 301.5,
+            "end": 303.5,
+            "text": " So the array of i is less than equal to"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 303.5,
+            "end": 304.90000000000003,
+            "text": " The area of i plus 1"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 304.90000000000003,
+            "end": 306.40000000000003,
+            "text": " So in that case, what we will do"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 306.40000000000003,
+            "end": 308.20000000000005,
+            "text": " In that case, we will see this sorted"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 308.20000000000005,
+            "end": 309.90000000000003,
+            "text": " What is the area sorted after?"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 310.20000000000005,
+            "end": 312.20000000000005,
+            "text": " The area we will assume"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 312.20000000000005,
+            "end": 313.5,
+            "text": " You will check your sorted"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 313.5,
+            "end": 314.8,
+            "text": " In that we will pass the array"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 314.8,
+            "end": 316.3,
+            "text": " And i plus 1"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 316.90000000000003,
+            "end": 318.90000000000003,
+            "text": " And whatever answer we will return"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 318.90000000000003,
+            "end": 320.40000000000003,
+            "text": " We will also return it"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 321.2,
+            "end": 322.8,
+            "text": " If this return the true"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 322.8,
+            "end": 324.0,
+            "text": " We are the true"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 324.0,
+            "end": 325.5,
+            "text": " The next array is sorted"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 325.5,
+            "end": 327.1,
+            "text": " So we will return the true"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 327.1,
+            "end": 328.6,
+            "text": " We are sorted"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 328.6,
+            "end": 329.90000000000003,
+            "text": " But the next array is sorted"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 329.90000000000003,
+            "end": 331.90000000000003,
+            "text": " So in that case, we have to return the false"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 332.1,
+            "end": 333.90000000000003,
+            "text": " And here, what will happen to the base?"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 333.90000000000003,
+            "end": 335.1,
+            "text": " The base will be"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 335.1,
+            "end": 337.1,
+            "text": " At some point, i value"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 337.1,
+            "end": 338.90000000000003,
+            "text": " If the array of"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 338.90000000000003,
+            "end": 340.8,
+            "text": " Length minus 1 is equal"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 340.8,
+            "end": 343.1,
+            "text": " So here we will return the true"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 343.6,
+            "end": 346.1,
+            "text": " Now in the function of the array"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 346.5,
+            "end": 348.40000000000003,
+            "text": " First of all, we have a sorted array"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 352.1,
+            "end": 353.40000000000003,
+            "text": " Is sorted"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 353.40000000000003,
+            "end": 354.40000000000003,
+            "text": " For"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 354.40000000000003,
+            "end": 356.20000000000005,
+            "text": " What will we pass in the beginning?"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 356.20000000000005,
+            "end": 358.70000000000005,
+            "text": " We want to compare it from where we start"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 358.70000000000005,
+            "end": 360.1,
+            "text": " From our zero end"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 360.1,
+            "end": 362.5,
+            "text": " We will start comparing it from the beginning"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 362.5,
+            "end": 363.20000000000005,
+            "text": " Parwise"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 363.20000000000005,
+            "end": 366.40000000000003,
+            "text": " And for the next array, we will apply calls in the recursive fashion"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 368.0,
+            "end": 369.70000000000005,
+            "text": " Let's execute this"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 371.1,
+            "end": 372.20000000000005,
+            "text": " Print is for us"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 372.20000000000005,
+            "end": 373.1,
+            "text": " Print what true"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 373.1,
+            "end": 374.90000000000003,
+            "text": " Because this array is our sorted array"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 375.0,
+            "end": 376.29999999999995,
+            "text": " But if I put this here"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 376.29999999999995,
+            "end": 377.79999999999995,
+            "text": " I will not make it un-sorted"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 377.79999999999995,
+            "end": 380.79999999999995,
+            "text": " After 3, we inserted the file"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 381.5,
+            "end": 383.0,
+            "text": " For this, we applied calls"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 383.0,
+            "end": 384.7,
+            "text": " So here the return was false"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 384.7,
+            "end": 386.7,
+            "text": " Because it is un-sorted"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 387.2,
+            "end": 389.79999999999995,
+            "text": " Here we are going to assume that it is a single element"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 389.79999999999995,
+            "end": 390.9,
+            "text": " Only 5"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 390.9,
+            "end": 393.5,
+            "text": " What will be the true return in the case of 5?"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 393.5,
+            "end": 396.29999999999995,
+            "text": " Because the base case of 5 is our"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 396.29999999999995,
+            "end": 399.9,
+            "text": " Because the i in 5 is equal to"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 399.9,
+            "end": 401.4,
+            "text": " Array dot length minus 1"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 401.4,
+            "end": 403.5,
+            "text": " So we will return the true in all cases"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 404.0,
+            "end": 406.4,
+            "text": " 5 and 6 is the area"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 406.4,
+            "end": 408.6,
+            "text": " In this case, the return will be true"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 410.1,
+            "end": 412.1,
+            "text": " Let's look at the call stack once"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 412.1,
+            "end": 414.6,
+            "text": " How is the function actually working?"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 414.6,
+            "end": 416.6,
+            "text": " First of all, what will we do with the main function?"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 416.6,
+            "end": 418.6,
+            "text": " We will make an array within the main function"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 419.1,
+            "end": 421.3,
+            "text": " So we will make the array outside"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 424.3,
+            "end": 427.3,
+            "text": " Let's suppose we will store the array within"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 427.3,
+            "end": 429.1,
+            "text": " 1, 2, 3 and 4"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 429.1,
+            "end": 431.3,
+            "text": " Now we will apply the main function to the call"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 431.40000000000003,
+            "end": 433.90000000000003,
+            "text": " The main function has the array in the main function"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 433.90000000000003,
+            "end": 436.40000000000003,
+            "text": " The main function will be called the sorted code"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 436.40000000000003,
+            "end": 440.40000000000003,
+            "text": " In this sorted area"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 440.40000000000003,
+            "end": 441.40000000000003,
+            "text": " That will pass"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 441.40000000000003,
+            "end": 443.40000000000003,
+            "text": " So actually the address will pass"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 443.40000000000003,
+            "end": 445.40000000000003,
+            "text": " The same array will be changing"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 445.40000000000003,
+            "end": 447.90000000000003,
+            "text": " So this same array will pass us"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 448.90000000000003,
+            "end": 450.7,
+            "text": " And with that, the pass will pass"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 450.7,
+            "end": 451.7,
+            "text": " i is equal to 0"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 451.7,
+            "end": 453.7,
+            "text": " In our code, I actually wrote"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 453.7,
+            "end": 456.7,
+            "text": " In our code, the first base case in this sorted code"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 456.7,
+            "end": 459.5,
+            "text": " If i value n minus 1 is equal to"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 459.6,
+            "end": 461.4,
+            "text": " In that case, we will return the true"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 462.4,
+            "end": 465.6,
+            "text": " Apart from that, if i value is greater than"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 465.6,
+            "end": 467.6,
+            "text": " A of i plus 1"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 467.6,
+            "end": 469.6,
+            "text": " In that case, we will return false"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 469.6,
+            "end": 471.9,
+            "text": " And what will we return in other cases?"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 471.9,
+            "end": 473.9,
+            "text": " In other cases, we will apply the call"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 473.9,
+            "end": 477.4,
+            "text": " For i plus 1"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 477.4,
+            "end": 478.9,
+            "text": " And our array"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 478.9,
+            "end": 480.9,
+            "text": " And we will do the return"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 480.9,
+            "end": 482.9,
+            "text": " So this is our function"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 482.9,
+            "end": 486.9,
+            "text": " In the function, we will pass the array and i equal to 0"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 486.9,
+            "end": 487.9,
+            "text": " i equal to 0"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 488.0,
+            "end": 489.7,
+            "text": " For this condition, we will get false"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 489.7,
+            "end": 491.7,
+            "text": " Because what is the value of our n?"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 491.7,
+            "end": 493.7,
+            "text": " For our n-hays case"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 493.7,
+            "end": 495.7,
+            "text": " So we will come to this condition"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 495.7,
+            "end": 499.5,
+            "text": " If a of i is greater than a of i plus 1"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 499.5,
+            "end": 501.09999999999997,
+            "text": " That means 1 greater than 2"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 501.09999999999997,
+            "end": 502.5,
+            "text": " So we will return false"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 502.5,
+            "end": 504.09999999999997,
+            "text": " But this is not true"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 504.09999999999997,
+            "end": 505.09999999999997,
+            "text": " This is false"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 505.09999999999997,
+            "end": 507.09999999999997,
+            "text": " So we will execute this statement"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 507.09999999999997,
+            "end": 510.09999999999997,
+            "text": " That means we will apply this sorted call for i plus 1"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 510.09999999999997,
+            "end": 511.9,
+            "text": " As we will apply the call"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 511.9,
+            "end": 513.5,
+            "text": " A more level will form"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 513.5,
+            "end": 515.5,
+            "text": " This time we will apply this sorted call"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 515.5,
+            "end": 516.9,
+            "text": " In that our array is"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 516.9,
+            "end": 517.9,
+            "text": " And i equal to 1"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 517.9,
+            "end": 518.9,
+            "text": " For the call"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 518.9,
+            "end": 519.9,
+            "text": " For i equal to 1"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 519.9,
+            "end": 520.9,
+            "text": " For this condition"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 520.9,
+            "end": 522.5,
+            "text": " This statement will fall"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 522.5,
+            "end": 523.9,
+            "text": " This statement will fall"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 523.9,
+            "end": 525.3,
+            "text": " Because i equal to 1"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 525.3,
+            "end": 526.5,
+            "text": " That is 2"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 526.5,
+            "end": 528.1,
+            "text": " Is greater than 3"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 528.1,
+            "end": 529.7,
+            "text": " This condition is false"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 529.7,
+            "end": 531.1,
+            "text": " So this is"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 531.1,
+            "end": 532.9,
+            "text": " This will never be executed"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 532.9,
+            "end": 534.9,
+            "text": " So we will execute this statement"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 534.9,
+            "end": 537.3,
+            "text": " That means we will apply this sorted call for one more call"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 537.3,
+            "end": 539.3,
+            "text": " For this sorted call"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 539.3,
+            "end": 540.3,
+            "text": " In that area"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 540.3,
+            "end": 541.3,
+            "text": " i equal to 2"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 541.3,
+            "end": 542.3,
+            "text": " For the call"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 542.3,
+            "end": 543.3,
+            "text": " i equal to 2"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 543.3,
+            "end": 544.3,
+            "text": " For this condition"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 544.3,
+            "end": 546.3,
+            "text": " We will check this statement"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 546.3,
+            "end": 547.3,
+            "text": " This will fall"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 547.3,
+            "end": 549.3,
+            "text": " We will check this statement"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 549.3,
+            "end": 550.3,
+            "text": " i equal to 2"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 550.3,
+            "end": 551.3,
+            "text": " That is 3"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 551.3,
+            "end": 553.3,
+            "text": " So our array of 2"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 553.3,
+            "end": 555.6999999999999,
+            "text": " Is not greater than a of 3"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 555.6999999999999,
+            "end": 557.5,
+            "text": " So this statement will not execute"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 557.5,
+            "end": 560.3,
+            "text": " We will apply this sorted call"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 560.3,
+            "end": 561.9,
+            "text": " For this sorted call"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 561.9,
+            "end": 563.9,
+            "text": " i equal to 3"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 563.9,
+            "end": 564.9,
+            "text": " For this"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 564.9,
+            "end": 566.9,
+            "text": " For this case"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 566.9,
+            "end": 568.9,
+            "text": " We will come into this function"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 568.9,
+            "end": 569.9,
+            "text": " For this case"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 569.9,
+            "end": 570.9,
+            "text": " For this case"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 570.9,
+            "end": 571.9,
+            "text": " For this case"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 571.9,
+            "end": 572.9,
+            "text": " For this case"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 572.9,
+            "end": 575.6999999999999,
+            "text": " So 3 is equal to 4"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 575.6999999999999,
+            "end": 576.5,
+            "text": " That is 3"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 576.5,
+            "end": 577.6999999999999,
+            "text": " So we will return here"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 577.6999999999999,
+            "end": 578.6999999999999,
+            "text": " True"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 578.6999999999999,
+            "end": 579.6999999999999,
+            "text": " So from here"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 579.6999999999999,
+            "end": 580.6999999999999,
+            "text": " We will return here"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 580.6999999999999,
+            "end": 582.1999999999999,
+            "text": " True return"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 582.1999999999999,
+            "end": 583.5,
+            "text": " As the level of this"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 583.5,
+            "end": 584.6999999999999,
+            "text": " True return"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 584.6999999999999,
+            "end": 585.8,
+            "text": " The above statements"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 585.8,
+            "end": 587.1,
+            "text": " Is not executed"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 587.1,
+            "end": 588.6999999999999,
+            "text": " So this is the same execution"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 588.6999999999999,
+            "end": 590.1999999999999,
+            "text": " So this will also return"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 590.1999999999999,
+            "end": 592.0,
+            "text": " So from here we will return"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 592.0,
+            "end": 594.0,
+            "text": " From here we will return"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 594.0,
+            "end": 595.0,
+            "text": " And the main function"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 595.0,
+            "end": 597.0,
+            "text": " We will return the true"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 597.0,
+            "end": 598.5,
+            "text": " But take here"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 598.5,
+            "end": 599.5,
+            "text": " On this level"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 599.5,
+            "end": 600.5,
+            "text": " 2"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 600.5,
+            "end": 602.5,
+            "text": " If we have 5"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 603.3,
+            "end": 604.3,
+            "text": " So how do we write calls"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 606.1,
+            "end": 608.1,
+            "text": " So what does the main function of this case do"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 611.3,
+            "end": 612.1,
+            "text": " The main function"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 612.1,
+            "end": 613.3,
+            "text": " First call"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 613.3,
+            "end": 614.3,
+            "text": " For this sorted call"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 614.3,
+            "end": 615.3,
+            "text": " For array"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 615.3,
+            "end": 616.7,
+            "text": " And i equal to 0"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 616.7,
+            "end": 618.1,
+            "text": " i equal to 0"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 618.1,
+            "end": 619.1,
+            "text": " As the call comes"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 619.1,
+            "end": 620.5,
+            "text": " Means we come on this level"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 620.5,
+            "end": 622.3,
+            "text": " So this statement falls"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 622.3,
+            "end": 623.7,
+            "text": " This statement falls"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 623.7,
+            "end": 625.1,
+            "text": " Then execute this"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 625.1,
+            "end": 626.3,
+            "text": " Then again call"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 626.3,
+            "end": 628.1,
+            "text": " This sorted array"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 628.1,
+            "end": 629.9,
+            "text": " i equal to 1"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 629.9,
+            "end": 630.9,
+            "text": " i equal to 1"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 630.9,
+            "end": 631.7,
+            "text": " As we come"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 631.7,
+            "end": 632.7,
+            "text": " So what was in that case"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 632.7,
+            "end": 634.3000000000001,
+            "text": " This falls for us"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 634.3000000000001,
+            "end": 635.3000000000001,
+            "text": " But in this statement"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 635.3000000000001,
+            "end": 636.3000000000001,
+            "text": " If we look"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 636.3000000000001,
+            "end": 637.9000000000001,
+            "text": " i equal to 1"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 637.9000000000001,
+            "end": 641.5,
+            "text": " So we have 3 greater than 5"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 641.5,
+            "end": 643.0,
+            "text": " That comparison"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 643.0,
+            "end": 644.5,
+            "text": " This comparison is true"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 644.5,
+            "end": 645.5,
+            "text": " As this statement is true"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 645.5,
+            "end": 647.0,
+            "text": " From here we have to return"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 647.0,
+            "end": 649.0,
+            "text": " So here"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 649.0,
+            "end": 650.5,
+            "text": " We directly return"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 650.5,
+            "end": 652.5,
+            "text": " After that we don't think of the next calls"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 652.5,
+            "end": 653.5,
+            "text": " After this function"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 653.5,
+            "end": 654.9000000000001,
+            "text": " As a false"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 654.9000000000001,
+            "end": 656.1,
+            "text": " So this main function"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 656.1,
+            "end": 657.4000000000001,
+            "text": " It also returns"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 657.4000000000001,
+            "end": 658.9000000000001,
+            "text": " And this array"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 658.9000000000001,
+            "end": 660.9000000000001,
+            "text": " Not sorted"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 660.9,
+            "end": 662.9,
+            "text": " How much time complexity is in this"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 662.9,
+            "end": 664.9,
+            "text": " Time complexity is our big of n"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 664.9,
+            "end": 667.5,
+            "text": " Because we can go to maximum n levels"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 667.5,
+            "end": 669.3,
+            "text": " Memory is the same"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 669.3,
+            "end": 671.5,
+            "text": " Our array"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 671.5,
+            "end": 673.1,
+            "text": " The same memory is occupied"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 673.1,
+            "end": 674.3,
+            "text": " Means big of n"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 674.3,
+            "end": 675.9,
+            "text": " We can call n plus n"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 675.9,
+            "end": 678.1,
+            "text": " Call stacks also count"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 678.1,
+            "end": 680.9,
+            "text": " But that 2 n is also equal to big of n"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 680.9,
+            "end": 682.5,
+            "text": " So this is time complexity"
+        },
+        {
+            "number": " 8",
+            "title": "Check if array is sorted or not",
+            "start": 682.5,
+            "end": 683.6999999999999,
+            "text": " This is space complexity"
+        }
+    ],
+    "text": " Next question is if we want to check whether our given array is sorted or not Let's take an example 1 2 3 4 and 5 If I analyze this array, then it is sorted But I know how to do it We can do something like this that we will compare each pair If we compare this pair So 1 value is less than 2 This sorted is the ascending order sorted by the ascending order This pair will return to true It means that it is sorted so many parts What we will do is we will call the rest of the recursions for the call This part will be used to solve the recursions Usually what we will do? If we check whether it is sorted or not Then we will put a loop What was in the loop? I is equal to 0 I less than n to the loop And we will compare each other to our current I This is less than n minus 1 Let's compare the A of I That the value of I is equal to A of I plus 1 And as we get the true array It is sorted It is arranged in ascending order Now it is very easy The work of the loop is very easy We will do it in the recursion form How will we do it? What will our logic be? Our logic will be We will compare I and I plus 1 And then we will see that Is the array sorted after I plus 1 That means we will make a function It is sorted And sorted The array of n size will be sorted When it is A of 0 So less than A of 1 Plus The part of the part of the loop That is n minus 1 size That will be sorted We visualize it in the whole What happened? We have an array What will we do? We will see how much we will see Is it sorted? And for this later We will call the recursive call If we call the recursive call This is sorted We will return it from here If it is sorted If we have sorted something from this We will return it That the array is not sorted So we calculated 1 and 2 That true This is sorted 1 is less than 2 Now we will call this from this For this, we will call it as We will analyze 2 numbers in this We will compare 2 to 3 2 is less than 3 So this is true Now we will call it as this That is, for 3, 4, 5 For this, we will compare these 2 numbers We will give it as true That is, 3 is less than 4 Now we will call it as last 2 numbers So these 2 numbers We will compare them first So we will give it as true That is, 4 is less than 5 After this, we have to do this in this case So what we have done We have started comparing 2 numbers And the other array For that array, we will zoom So that we will find out That it is sorted or unsorted So we will give the recursive function In which we will give the function as This sorted In this sorted, we will have a parameter Our integer array Apart from that, we will have A integer i i is the starting point From where we will start to compare So first we will compare Array of i is less than equal to Array of i plus 1 After that, we will call This sorted Array And now we have to look from where Now we have to look from i plus 1 For i, we have checked the condition of this sorted i and i plus 1 We have compared the next level i plus 1 and i plus 2 will compare That is, we will compare this value to this value From then on, from i plus 2 and i plus 3 That is, we will compare this value So in this way, we will keep the pair of i's comparisons And in this function, we can add the base case The base case will be At the point where Our i will be Array dot length minus 1 equal So as soon as i's value is equal Now we will not do any comparisons So in this base case, we will always return the true Once we write the code Then we will analyze the call stack So the code will be very clear That we are actually doing Let's make a function Public Static Let's make it on Boolean type This sorted So we will check And return the true If the entire array is sorted Return the false If the entire array is not sorted So here first of all, we have an area And then we have another parameter Our index i Now what is the most important thing for us We have to make it work That i and i plus 1 will compare So if the array of i If it gets greater From the area of i plus 1 So in this case, what we do In that case, our array is not sorted So here we will directly return the false But if this true So the array of i is less than equal to The area of i plus 1 So in that case, what we will do In that case, we will see this sorted What is the area sorted after? The area we will assume You will check your sorted In that we will pass the array And i plus 1 And whatever answer we will return We will also return it If this return the true We are the true The next array is sorted So we will return the true We are sorted But the next array is sorted So in that case, we have to return the false And here, what will happen to the base? The base will be At some point, i value If the array of Length minus 1 is equal So here we will return the true Now in the function of the array First of all, we have a sorted array Is sorted For What will we pass in the beginning? We want to compare it from where we start From our zero end We will start comparing it from the beginning Parwise And for the next array, we will apply calls in the recursive fashion Let's execute this Print is for us Print what true Because this array is our sorted array But if I put this here I will not make it un-sorted After 3, we inserted the file For this, we applied calls So here the return was false Because it is un-sorted Here we are going to assume that it is a single element Only 5 What will be the true return in the case of 5? Because the base case of 5 is our Because the i in 5 is equal to Array dot length minus 1 So we will return the true in all cases 5 and 6 is the area In this case, the return will be true Let's look at the call stack once How is the function actually working? First of all, what will we do with the main function? We will make an array within the main function So we will make the array outside Let's suppose we will store the array within 1, 2, 3 and 4 Now we will apply the main function to the call The main function has the array in the main function The main function will be called the sorted code In this sorted area That will pass So actually the address will pass The same array will be changing So this same array will pass us And with that, the pass will pass i is equal to 0 In our code, I actually wrote In our code, the first base case in this sorted code If i value n minus 1 is equal to In that case, we will return the true Apart from that, if i value is greater than A of i plus 1 In that case, we will return false And what will we return in other cases? In other cases, we will apply the call For i plus 1 And our array And we will do the return So this is our function In the function, we will pass the array and i equal to 0 i equal to 0 For this condition, we will get false Because what is the value of our n? For our n-hays case So we will come to this condition If a of i is greater than a of i plus 1 That means 1 greater than 2 So we will return false But this is not true This is false So we will execute this statement That means we will apply this sorted call for i plus 1 As we will apply the call A more level will form This time we will apply this sorted call In that our array is And i equal to 1 For the call For i equal to 1 For this condition This statement will fall This statement will fall Because i equal to 1 That is 2 Is greater than 3 This condition is false So this is This will never be executed So we will execute this statement That means we will apply this sorted call for one more call For this sorted call In that area i equal to 2 For the call i equal to 2 For this condition We will check this statement This will fall We will check this statement i equal to 2 That is 3 So our array of 2 Is not greater than a of 3 So this statement will not execute We will apply this sorted call For this sorted call i equal to 3 For this For this case We will come into this function For this case For this case For this case For this case So 3 is equal to 4 That is 3 So we will return here True So from here We will return here True return As the level of this True return The above statements Is not executed So this is the same execution So this will also return So from here we will return From here we will return And the main function We will return the true But take here On this level 2 If we have 5 So how do we write calls So what does the main function of this case do The main function First call For this sorted call For array And i equal to 0 i equal to 0 As the call comes Means we come on this level So this statement falls This statement falls Then execute this Then again call This sorted array i equal to 1 i equal to 1 As we come So what was in that case This falls for us But in this statement If we look i equal to 1 So we have 3 greater than 5 That comparison This comparison is true As this statement is true From here we have to return So here We directly return After that we don't think of the next calls After this function As a false So this main function It also returns And this array Not sorted How much time complexity is in this Time complexity is our big of n Because we can go to maximum n levels Memory is the same Our array The same memory is occupied Means big of n We can call n plus n Call stacks also count But that 2 n is also equal to big of n So this is time complexity This is space complexity"
+}

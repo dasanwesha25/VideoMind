@@ -1,0 +1,1559 @@
+{
+    "chunks": [
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 0.0,
+            "end": 3.0,
+            "text": " Hi everyone, I am talking about the recursion."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 3.0,
+            "end": 8.0,
+            "text": " We have heard a lot about the recursion concept and it is a very powerful concept."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 8.0,
+            "end": 11.0,
+            "text": " I believe that the programming is one of the core concepts."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 11.0,
+            "end": 14.0,
+            "text": " You are using any programming language."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 14.0,
+            "end": 17.0,
+            "text": " If the recursion is coming, you become a better programmer."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 17.0,
+            "end": 21.0,
+            "text": " It is a very, very good solution for many problems."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 21.0,
+            "end": 24.0,
+            "text": " If we talk about the recursion, we need to learn the recursion."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 24.0,
+            "end": 26.0,
+            "text": " We should come to two concepts."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 26.0,
+            "end": 29.0,
+            "text": " The first concept is the iteration."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 29.0,
+            "end": 33.0,
+            "text": " We have already studied the loops, we have studied the two-while loops,"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 33.0,
+            "end": 37.0,
+            "text": " we have studied the two-while loops, then we start from the iteration and how do we write loops."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 37.0,
+            "end": 40.0,
+            "text": " The second concept we need to come is the functions."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 40.0,
+            "end": 43.0,
+            "text": " What are the parameters and arguments in the functions?"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 43.0,
+            "end": 45.0,
+            "text": " How do we call the functions?"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 45.0,
+            "end": 50.0,
+            "text": " If these two concepts come to us, we can learn recursions and we have studied them."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 50.0,
+            "end": 52.0,
+            "text": " We are completely ready to learn recursions."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 52.0,
+            "end": 56.0,
+            "text": " The major use of the recursion is where we come to."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 56.0,
+            "end": 61.0,
+            "text": " We are advancing data structures like trees, graphs or D.P."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 61.0,
+            "end": 64.0,
+            "text": " We are doing dynamic programming algorithms."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 64.0,
+            "end": 66.0,
+            "text": " We are looking at them a lot."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 66.0,
+            "end": 69.0,
+            "text": " Now why do we need to learn the recursion?"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 69.0,
+            "end": 72.0,
+            "text": " Because it is a very high recursion."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 72.0,
+            "end": 78.0,
+            "text": " The work we can do with the help of the loops, we can do all the work with the recursion."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 78.0,
+            "end": 83.0,
+            "text": " The work we can do with the recursion, we can do all the work with the iteration."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 83.0,
+            "end": 88.0,
+            "text": " Depending upon the problem, it is very easy to do some work with recursions."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 88.0,
+            "end": 93.0,
+            "text": " The way trees traverse it, the work of the iteration is very difficult."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 93.0,
+            "end": 98.0,
+            "text": " And it is very easy to do some work with the iteration, but it is very difficult in recursion."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 98.0,
+            "end": 101.0,
+            "text": " Depending upon the problem, as we are studying recursions,"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 101.0,
+            "end": 104.0,
+            "text": " we are exploring the advanced data structures in algorithms,"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 104.0,
+            "end": 109.0,
+            "text": " which situation we need to use in the iteration, which situation we need to use in recursion."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 109.0,
+            "end": 112.0,
+            "text": " Now let us first understand what recursion is."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 112.0,
+            "end": 116.0,
+            "text": " Now in the math, we had a small concept of functions."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 116.0,
+            "end": 121.0,
+            "text": " Let us assume that we have a function called fx is equal to x square."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 121.0,
+            "end": 125.0,
+            "text": " Now if I want to remove f of fx, what will happen?"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 125.0,
+            "end": 127.0,
+            "text": " It will be the square of x square."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 127.0,
+            "end": 132.0,
+            "text": " If x is equal to 2, then what will be the value of fx?"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 132.0,
+            "end": 135.0,
+            "text": " The value of fx is 4, i.e. 2x square."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 135.0,
+            "end": 144.0,
+            "text": " And f of fx will be 4, i.e. 4x2, i.e. 16."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 144.0,
+            "end": 150.0,
+            "text": " Now in the math, it is very common that we call it in a function."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 150.0,
+            "end": 153.0,
+            "text": " This is the same concept of recursion."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 153.0,
+            "end": 156.0,
+            "text": " When a function calls itself once and twice,"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 156.0,
+            "end": 160.0,
+            "text": " the function calls itself once and twice,"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 160.0,
+            "end": 164.0,
+            "text": " then the function in the inner part of the function returns to the outer part of the function,"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 164.0,
+            "end": 167.0,
+            "text": " and then it calculates the value of the final value on its basis."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 167.0,
+            "end": 170.0,
+            "text": " Let us understand it in one more way."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 170.0,
+            "end": 174.0,
+            "text": " Now we know what the function is based on factorial."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 174.0,
+            "end": 182.0,
+            "text": " We have studied the math that factorial of a number n is equal to n multiplied by factorial of a number n minus 1."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 182.0,
+            "end": 186.0,
+            "text": " The students do not know the factorial that is the math that is not a little background."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 186.0,
+            "end": 191.0,
+            "text": " factorial of a number n is equal to n multiplied by n minus 1 multiplied by n minus 2."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 191.0,
+            "end": 194.0,
+            "text": " Till we do not do multiplication until we do not do multiplication."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 194.0,
+            "end": 198.0,
+            "text": " If I have to remove 5 factorial, then what will happen?"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 198.0,
+            "end": 201.0,
+            "text": " 5 into 4 into 3 into 2 into 1."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 201.0,
+            "end": 205.0,
+            "text": " 4 factorial will be for me, 4 into 3 into 2 into 1."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 205.0,
+            "end": 208.0,
+            "text": " This is the value of this n is equal to 0 factorial,"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 208.0,
+            "end": 211.0,
+            "text": " which we always know from the first one."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 211.0,
+            "end": 214.0,
+            "text": " Now factorial of n is only for us..."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 214.0,
+            "end": 216.0,
+            "text": " n multiplied by factorial of n minus 1."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 216.0,
+            "end": 220.0,
+            "text": " Now we can calculate this factorial of n minus 1 by calculating into by 1."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 220.0,
+            "end": 224.0,
+            "text": " n minus 1 multiplied by factorial of n minus 2."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 224.0,
+            "end": 227.0,
+            "text": " Can calculate this factorial of n minus 2 also."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 227.0,
+            "end": 231.0,
+            "text": " n minus 2 multiplied by factorial of n minus 3."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 231.0,
+            "end": 234.0,
+            "text": " So what happens if we remove these factorial of 0?"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 234.0,
+            "end": 237.0,
+            "text": " This is called one multiplied by factorial of 0."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 237.0,
+            "end": 240.0,
+            "text": " In this way, the overall change of factorial is going beyond the level of n."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 270.0,
+            "end": 272.0,
+            "text": " Now what will be calculated here?"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 272.0,
+            "end": 274.0,
+            "text": " Calculator 1 and 2 is equal to 1."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 274.0,
+            "end": 276.0,
+            "text": " So, it will replace 1."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 276.0,
+            "end": 278.0,
+            "text": " So, 2 multiplied by 1 is equal to 2."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 278.0,
+            "end": 280.0,
+            "text": " It will replace 2."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 280.0,
+            "end": 282.0,
+            "text": " 3 multiplied by 2."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 282.0,
+            "end": 286.0,
+            "text": " 6 multiplied by 4 is equal to 2."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 286.0,
+            "end": 290.0,
+            "text": " And, the values of these two will be 120."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 290.0,
+            "end": 292.0,
+            "text": " What happened in the process of this?"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 292.0,
+            "end": 296.0,
+            "text": " Every step has taken a more problem like we have."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 296.0,
+            "end": 300.0,
+            "text": " I had to calculate 5 factorials."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 300.0,
+            "end": 304.0,
+            "text": " But, I didn't have to calculate 5 factorials."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 304.0,
+            "end": 306.0,
+            "text": " So, what will I do?"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 306.0,
+            "end": 308.0,
+            "text": " I know that if I get 4 factorials from some way."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 308.0,
+            "end": 310.0,
+            "text": " The problem I have is small."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 310.0,
+            "end": 314.0,
+            "text": " The way I calculate 5 is easier."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 314.0,
+            "end": 316.0,
+            "text": " You calculate 4 factorials."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 316.0,
+            "end": 320.0,
+            "text": " I can multiply it and take 5."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 320.0,
+            "end": 322.0,
+            "text": " So, what I did?"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 322.0,
+            "end": 326.0,
+            "text": " I multiplied the 4 factorials with some value of value of 4."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 326.0,
+            "end": 328.0,
+            "text": " I have calculated 4 factorials."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 328.0,
+            "end": 330.0,
+            "text": " I have calculated 3 factorials."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 330.0,
+            "end": 334.0,
+            "text": " So, I have multiplied 4 to 3 factorials."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 334.0,
+            "end": 338.0,
+            "text": " I have calculated 2 factorials."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 338.0,
+            "end": 342.0,
+            "text": " So, I multiplied 3 to 2 factorials."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 342.0,
+            "end": 344.0,
+            "text": " So, what are we doing?"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 344.0,
+            "end": 346.0,
+            "text": " We are taking a smaller problem."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 346.0,
+            "end": 348.0,
+            "text": " And, how is that smaller problem?"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 348.0,
+            "end": 350.0,
+            "text": " It is similar to me."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 350.0,
+            "end": 356.0,
+            "text": " If I have to take 5 factorials or 4 factorials."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 356.0,
+            "end": 358.0,
+            "text": " I have to take 3 factorials."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 358.0,
+            "end": 362.0,
+            "text": " You will notice that every level of the problem is getting smaller."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 362.0,
+            "end": 364.0,
+            "text": " It is getting smaller."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 364.0,
+            "end": 368.0,
+            "text": " The problem is getting easier to take 4 factorials."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 368.0,
+            "end": 372.0,
+            "text": " And, the problem of all the problems is similar."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 372.0,
+            "end": 376.0,
+            "text": " We are taking the same number of factorials."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 376.0,
+            "end": 380.0,
+            "text": " The number of factorials is calling the same number."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 380.0,
+            "end": 382.0,
+            "text": " This is the factorial function."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 382.0,
+            "end": 386.0,
+            "text": " It is calling the same number."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 386.0,
+            "end": 389.0,
+            "text": " It is calling the same number."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 389.0,
+            "end": 394.0,
+            "text": " We call them recursive functions."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 394.0,
+            "end": 398.0,
+            "text": " They call the same number for small problems."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 398.0,
+            "end": 400.0,
+            "text": " And, the concept of recursion."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 400.0,
+            "end": 404.0,
+            "text": " The definition of recursion is called the method of solving a computational problem"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 404.0,
+            "end": 410.0,
+            "text": " where the solution depends on the solution to smaller instances of the same problem."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 410.0,
+            "end": 414.0,
+            "text": " We have discussed that you solve the first problem."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 414.0,
+            "end": 416.0,
+            "text": " It is similar to the case."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 416.0,
+            "end": 418.0,
+            "text": " We have to do the same work."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 418.0,
+            "end": 420.0,
+            "text": " We will do the small work first."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 420.0,
+            "end": 422.0,
+            "text": " Then we will do the big work."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 422.0,
+            "end": 428.0,
+            "text": " And, one thing that we should know at the time of recursion is our base case."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 428.0,
+            "end": 430.0,
+            "text": " What is the base case?"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 430.0,
+            "end": 432.0,
+            "text": " The final case."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 432.0,
+            "end": 434.0,
+            "text": " Where the recursion is finished."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 434.0,
+            "end": 438.0,
+            "text": " We should know the answer at the time of the step."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 438.0,
+            "end": 442.0,
+            "text": " We knew that factorial of zero is always going to be one."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 442.0,
+            "end": 447.0,
+            "text": " That is why we will say that we can stop recursion here."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 447.0,
+            "end": 450.0,
+            "text": " For recursion, we need to take factorial of minus one."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 450.0,
+            "end": 454.0,
+            "text": " So, the case that we know directly is the answer."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 454.0,
+            "end": 456.0,
+            "text": " We call it as a base case."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 456.0,
+            "end": 459.0,
+            "text": " The functions that we call ourselves as recursive functions."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 459.0,
+            "end": 461.0,
+            "text": " What is the problem?"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 461.0,
+            "end": 465.0,
+            "text": " The problem is that we divide the problem into smaller instances of similar problems."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 465.0,
+            "end": 467.0,
+            "text": " Now, we understand recursion in all the details."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 467.0,
+            "end": 471.0,
+            "text": " When you see a flow inside the recursion, how will it be?"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 471.0,
+            "end": 475.0,
+            "text": " First, we will travel in two different directions."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 475.0,
+            "end": 479.0,
+            "text": " So, what does it mean to travel in two directions?"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 479.0,
+            "end": 483.0,
+            "text": " First, we will take the top to the bottom."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 483.0,
+            "end": 485.0,
+            "text": " First, we are calculating F5."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 485.0,
+            "end": 487.0,
+            "text": " Then we calculated F4."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 487.0,
+            "end": 491.0,
+            "text": " We calculated F4 before calculating F3."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 491.0,
+            "end": 493.0,
+            "text": " We calculated F3 before F2."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 493.0,
+            "end": 495.0,
+            "text": " We calculated F2 before F2."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 495.0,
+            "end": 497.0,
+            "text": " We calculated F1."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 497.0,
+            "end": 501.0,
+            "text": " So, from this way, we have to go down to the top two."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 501.0,
+            "end": 505.0,
+            "text": " In this direction, towards base case."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 505.0,
+            "end": 513.0,
+            "text": " So, first, we have a direction where we go towards a small solution."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 513.0,
+            "end": 517.0,
+            "text": " Where we are standing, where we are standing, towards base case."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 517.0,
+            "end": 519.0,
+            "text": " As we touched the base case."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 519.0,
+            "end": 521.0,
+            "text": " Now, what we have to do is go back."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 521.0,
+            "end": 525.0,
+            "text": " What we will do is, we are sending answers in the direction of the above."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 525.0,
+            "end": 529.0,
+            "text": " Here, one, we are sending answers to here."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 529.0,
+            "end": 531.0,
+            "text": " Here, we are sending answers to 6."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 531.0,
+            "end": 533.0,
+            "text": " Here, we are sending answers to 24."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 533.0,
+            "end": 537.0,
+            "text": " And finally, the main function, which we call, will be the factorial function."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 537.0,
+            "end": 539.0,
+            "text": " We will send answers to 120."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 540.0,
+            "end": 545.0,
+            "text": " So, we have placed a call in this direction."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 545.0,
+            "end": 551.0,
+            "text": " So, here, we have combined all the solutions."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 551.0,
+            "end": 555.0,
+            "text": " We have solved the problem by combining the solutions."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 555.0,
+            "end": 557.0,
+            "text": " When we have solved the problem, we have to send our solution."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 557.0,
+            "end": 559.0,
+            "text": " So, we have to calculate F2."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 559.0,
+            "end": 563.0,
+            "text": " When we have to send F2, we have to calculate F3."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 563.0,
+            "end": 567.0,
+            "text": " When we have to calculate F3, we have to calculate F4."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 567.0,
+            "end": 570.0,
+            "text": " If we send a solution, we can calculate F5."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 570.0,
+            "end": 573.0,
+            "text": " So, we have to calculate two directions."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 573.0,
+            "end": 578.0,
+            "text": " From the top, we will find a bottom, which will convert the problem into small problems."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 578.0,
+            "end": 581.0,
+            "text": " As we have come to base case, we have to go back to the top."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 581.0,
+            "end": 583.0,
+            "text": " How will we go to the top?"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 583.0,
+            "end": 585.0,
+            "text": " Combine the solutions."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 585.0,
+            "end": 588.0,
+            "text": " So, whatever we have calculated, we will send them to the top."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 588.0,
+            "end": 590.0,
+            "text": " After that, we will send them to the top."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 590.0,
+            "end": 593.0,
+            "text": " So, in this way, we will work on our recursion."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 593.0,
+            "end": 596.0,
+            "text": " We will calculate the recursion with a small diagram."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 596.0,
+            "end": 598.0,
+            "text": " What is the normal function called?"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 598.0,
+            "end": 600.0,
+            "text": " We have a main function."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 600.0,
+            "end": 602.0,
+            "text": " What is the main function?"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 602.0,
+            "end": 605.0,
+            "text": " We call it a normal function."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 605.0,
+            "end": 609.0,
+            "text": " We make a variable on the computer, and we make an answer."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 609.0,
+            "end": 613.0,
+            "text": " Finally, we control the function with a main control."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 613.0,
+            "end": 617.0,
+            "text": " We can return this value with it with a main function."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 617.0,
+            "end": 619.0,
+            "text": " What is the flow of the recursion?"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 619.0,
+            "end": 625.0,
+            "text": " The function of the main function in the recursion will be called the function of your function."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 626.0,
+            "end": 627.0,
+            "text": " What will we do now?"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 627.0,
+            "end": 629.0,
+            "text": " We will call the same thing."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 629.0,
+            "end": 632.0,
+            "text": " If we call the same thing, we will see in the diagram."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 632.0,
+            "end": 634.0,
+            "text": " We call it a new function."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 634.0,
+            "end": 637.0,
+            "text": " We call it a new function."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 637.0,
+            "end": 639.0,
+            "text": " We call it a new function."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 639.0,
+            "end": 641.0,
+            "text": " We call it a new function."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 641.0,
+            "end": 648.0,
+            "text": " We will change the parameters, values, and finally, we will get a condition where your base will be."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 648.0,
+            "end": 652.0,
+            "text": " As the base case is, we will return this value."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 652.0,
+            "end": 654.0,
+            "text": " We will return this value to the base."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 654.0,
+            "end": 657.0,
+            "text": " We will return this value to the base."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 657.0,
+            "end": 660.0,
+            "text": " We will return this value to the base."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 660.0,
+            "end": 663.0,
+            "text": " We will see some recursion in the same way."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 663.0,
+            "end": 667.0,
+            "text": " We will make multiple functions with multiple conditions."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 667.0,
+            "end": 673.0,
+            "text": " We have created a function that can send all conditions."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 673.0,
+            "end": 680.0,
+            "text": " We will call the small problems again and again, and then we will give them the recursion."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 680.0,
+            "end": 688.0,
+            "text": " If I have to summarize the recursion in 3 steps, first step is to define the base case."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 688.0,
+            "end": 692.0,
+            "text": " Do you know what is going to happen in the recursion?"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 692.0,
+            "end": 698.0,
+            "text": " Second step is to determine the current function."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 698.0,
+            "end": 700.0,
+            "text": " This can be done depending on the problem."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 700.0,
+            "end": 706.0,
+            "text": " The function for our factorial function is to multiply n by n-1."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 706.0,
+            "end": 710.0,
+            "text": " The third step is to define the inner function."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 710.0,
+            "end": 714.0,
+            "text": " For this function, we have to define f of n-1."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 714.0,
+            "end": 720.0,
+            "text": " The inner function is to define the inner function and to define the inner function."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 720.0,
+            "end": 726.0,
+            "text": " For the factorial of n, we have to define n-1 by f of n-1."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 726.0,
+            "end": 734.0,
+            "text": " We have defined the call and assumed that the factorial of n-1 will be very good."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 734.0,
+            "end": 740.0,
+            "text": " We have defined the call and assumed that the factorial of n-1 will be very good."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 740.0,
+            "end": 744.0,
+            "text": " Then we will multiply it with n-1."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 744.0,
+            "end": 750.0,
+            "text": " If we had defined the pmi in the principal of mathematical induction, what we would do?"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 750.0,
+            "end": 754.0,
+            "text": " We would have to assume the solution for n is equal to 1."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 754.0,
+            "end": 756.0,
+            "text": " For some x, our solution is absolutely right."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 756.0,
+            "end": 762.0,
+            "text": " We would have to assume that x plus 1 will be very good for assuming this."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 762.0,
+            "end": 766.0,
+            "text": " The same principle of mathematical induction is not a major."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 766.0,
+            "end": 768.0,
+            "text": " This is the same approach."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 768.0,
+            "end": 770.0,
+            "text": " I have told you about math terms."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 770.0,
+            "end": 772.0,
+            "text": " We can solve it in that way."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 772.0,
+            "end": 774.0,
+            "text": " I will tell you in three steps."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 774.0,
+            "end": 780.0,
+            "text": " Once you know the base case, what will be the value for n?"
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 780.0,
+            "end": 786.0,
+            "text": " The third is that the inner calls are the three steps."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 786.0,
+            "end": 790.0,
+            "text": " We have to believe that the solution will be brought to us."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 790.0,
+            "end": 794.0,
+            "text": " These three steps will complete the recursion of any function."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 794.0,
+            "end": 800.0,
+            "text": " Now we can see the conceptually, the recursion is so big that I have explained it."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 800.0,
+            "end": 808.0,
+            "text": " The best thing for us is that we will solve two codes."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 808.0,
+            "end": 816.0,
+            "text": " After that, if we are downed, we can see the explanation from the context of the problems."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 816.0,
+            "end": 820.0,
+            "text": " We will see the theoretical explanation after writing the practical code."
+        },
+        {
+            "number": " 1",
+            "title": "What is Recursion_3f",
+            "start": 820.0,
+            "end": 824.0,
+            "text": " The recursion is also very clear."
+        }
+    ],
+    "text": " Hi everyone, I am talking about the recursion. We have heard a lot about the recursion concept and it is a very powerful concept. I believe that the programming is one of the core concepts. You are using any programming language. If the recursion is coming, you become a better programmer. It is a very, very good solution for many problems. If we talk about the recursion, we need to learn the recursion. We should come to two concepts. The first concept is the iteration. We have already studied the loops, we have studied the two-while loops, we have studied the two-while loops, then we start from the iteration and how do we write loops. The second concept we need to come is the functions. What are the parameters and arguments in the functions? How do we call the functions? If these two concepts come to us, we can learn recursions and we have studied them. We are completely ready to learn recursions. The major use of the recursion is where we come to. We are advancing data structures like trees, graphs or D.P. We are doing dynamic programming algorithms. We are looking at them a lot. Now why do we need to learn the recursion? Because it is a very high recursion. The work we can do with the help of the loops, we can do all the work with the recursion. The work we can do with the recursion, we can do all the work with the iteration. Depending upon the problem, it is very easy to do some work with recursions. The way trees traverse it, the work of the iteration is very difficult. And it is very easy to do some work with the iteration, but it is very difficult in recursion. Depending upon the problem, as we are studying recursions, we are exploring the advanced data structures in algorithms, which situation we need to use in the iteration, which situation we need to use in recursion. Now let us first understand what recursion is. Now in the math, we had a small concept of functions. Let us assume that we have a function called fx is equal to x square. Now if I want to remove f of fx, what will happen? It will be the square of x square. If x is equal to 2, then what will be the value of fx? The value of fx is 4, i.e. 2x square. And f of fx will be 4, i.e. 4x2, i.e. 16. Now in the math, it is very common that we call it in a function. This is the same concept of recursion. When a function calls itself once and twice, the function calls itself once and twice, then the function in the inner part of the function returns to the outer part of the function, and then it calculates the value of the final value on its basis. Let us understand it in one more way. Now we know what the function is based on factorial. We have studied the math that factorial of a number n is equal to n multiplied by factorial of a number n minus 1. The students do not know the factorial that is the math that is not a little background. factorial of a number n is equal to n multiplied by n minus 1 multiplied by n minus 2. Till we do not do multiplication until we do not do multiplication. If I have to remove 5 factorial, then what will happen? 5 into 4 into 3 into 2 into 1. 4 factorial will be for me, 4 into 3 into 2 into 1. This is the value of this n is equal to 0 factorial, which we always know from the first one. Now factorial of n is only for us... n multiplied by factorial of n minus 1. Now we can calculate this factorial of n minus 1 by calculating into by 1. n minus 1 multiplied by factorial of n minus 2. Can calculate this factorial of n minus 2 also. n minus 2 multiplied by factorial of n minus 3. So what happens if we remove these factorial of 0? This is called one multiplied by factorial of 0. In this way, the overall change of factorial is going beyond the level of n. Now what will be calculated here? Calculator 1 and 2 is equal to 1. So, it will replace 1. So, 2 multiplied by 1 is equal to 2. It will replace 2. 3 multiplied by 2. 6 multiplied by 4 is equal to 2. And, the values of these two will be 120. What happened in the process of this? Every step has taken a more problem like we have. I had to calculate 5 factorials. But, I didn't have to calculate 5 factorials. So, what will I do? I know that if I get 4 factorials from some way. The problem I have is small. The way I calculate 5 is easier. You calculate 4 factorials. I can multiply it and take 5. So, what I did? I multiplied the 4 factorials with some value of value of 4. I have calculated 4 factorials. I have calculated 3 factorials. So, I have multiplied 4 to 3 factorials. I have calculated 2 factorials. So, I multiplied 3 to 2 factorials. So, what are we doing? We are taking a smaller problem. And, how is that smaller problem? It is similar to me. If I have to take 5 factorials or 4 factorials. I have to take 3 factorials. You will notice that every level of the problem is getting smaller. It is getting smaller. The problem is getting easier to take 4 factorials. And, the problem of all the problems is similar. We are taking the same number of factorials. The number of factorials is calling the same number. This is the factorial function. It is calling the same number. It is calling the same number. We call them recursive functions. They call the same number for small problems. And, the concept of recursion. The definition of recursion is called the method of solving a computational problem where the solution depends on the solution to smaller instances of the same problem. We have discussed that you solve the first problem. It is similar to the case. We have to do the same work. We will do the small work first. Then we will do the big work. And, one thing that we should know at the time of recursion is our base case. What is the base case? The final case. Where the recursion is finished. We should know the answer at the time of the step. We knew that factorial of zero is always going to be one. That is why we will say that we can stop recursion here. For recursion, we need to take factorial of minus one. So, the case that we know directly is the answer. We call it as a base case. The functions that we call ourselves as recursive functions. What is the problem? The problem is that we divide the problem into smaller instances of similar problems. Now, we understand recursion in all the details. When you see a flow inside the recursion, how will it be? First, we will travel in two different directions. So, what does it mean to travel in two directions? First, we will take the top to the bottom. First, we are calculating F5. Then we calculated F4. We calculated F4 before calculating F3. We calculated F3 before F2. We calculated F2 before F2. We calculated F1. So, from this way, we have to go down to the top two. In this direction, towards base case. So, first, we have a direction where we go towards a small solution. Where we are standing, where we are standing, towards base case. As we touched the base case. Now, what we have to do is go back. What we will do is, we are sending answers in the direction of the above. Here, one, we are sending answers to here. Here, we are sending answers to 6. Here, we are sending answers to 24. And finally, the main function, which we call, will be the factorial function. We will send answers to 120. So, we have placed a call in this direction. So, here, we have combined all the solutions. We have solved the problem by combining the solutions. When we have solved the problem, we have to send our solution. So, we have to calculate F2. When we have to send F2, we have to calculate F3. When we have to calculate F3, we have to calculate F4. If we send a solution, we can calculate F5. So, we have to calculate two directions. From the top, we will find a bottom, which will convert the problem into small problems. As we have come to base case, we have to go back to the top. How will we go to the top? Combine the solutions. So, whatever we have calculated, we will send them to the top. After that, we will send them to the top. So, in this way, we will work on our recursion. We will calculate the recursion with a small diagram. What is the normal function called? We have a main function. What is the main function? We call it a normal function. We make a variable on the computer, and we make an answer. Finally, we control the function with a main control. We can return this value with it with a main function. What is the flow of the recursion? The function of the main function in the recursion will be called the function of your function. What will we do now? We will call the same thing. If we call the same thing, we will see in the diagram. We call it a new function. We call it a new function. We call it a new function. We call it a new function. We will change the parameters, values, and finally, we will get a condition where your base will be. As the base case is, we will return this value. We will return this value to the base. We will return this value to the base. We will return this value to the base. We will see some recursion in the same way. We will make multiple functions with multiple conditions. We have created a function that can send all conditions. We will call the small problems again and again, and then we will give them the recursion. If I have to summarize the recursion in 3 steps, first step is to define the base case. Do you know what is going to happen in the recursion? Second step is to determine the current function. This can be done depending on the problem. The function for our factorial function is to multiply n by n-1. The third step is to define the inner function. For this function, we have to define f of n-1. The inner function is to define the inner function and to define the inner function. For the factorial of n, we have to define n-1 by f of n-1. We have defined the call and assumed that the factorial of n-1 will be very good. We have defined the call and assumed that the factorial of n-1 will be very good. Then we will multiply it with n-1. If we had defined the pmi in the principal of mathematical induction, what we would do? We would have to assume the solution for n is equal to 1. For some x, our solution is absolutely right. We would have to assume that x plus 1 will be very good for assuming this. The same principle of mathematical induction is not a major. This is the same approach. I have told you about math terms. We can solve it in that way. I will tell you in three steps. Once you know the base case, what will be the value for n? The third is that the inner calls are the three steps. We have to believe that the solution will be brought to us. These three steps will complete the recursion of any function. Now we can see the conceptually, the recursion is so big that I have explained it. The best thing for us is that we will solve two codes. After that, if we are downed, we can see the explanation from the context of the problems. We will see the theoretical explanation after writing the practical code. The recursion is also very clear."
+}

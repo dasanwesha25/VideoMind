@@ -1,0 +1,1160 @@
+{
+    "chunks": [
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 0.0,
+            "end": 6.24,
+            "text": " In the last problem, we have analyzed the call stack and understood the recursion very well."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 6.24,
+            "end": 12.4,
+            "text": " Now we have to do the recursion speed and increase the speed of the whole process."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 12.4,
+            "end": 16.2,
+            "text": " Let's talk about problem 2. Problem 2 is exactly the same."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 16.2,
+            "end": 20.2,
+            "text": " We have to do print numbers, but we have to print in an increasing order."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 20.2,
+            "end": 22.2,
+            "text": " That is, we have to take 1 from 1 to n."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 22.2,
+            "end": 25.400000000000002,
+            "text": " So if we give n equal to 5, what will we do?"
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 25.400000000000002,
+            "end": 28.8,
+            "text": " We will print 1, 2, 3, 4 and 5."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 28.8,
+            "end": 30.8,
+            "text": " Now we will talk about what we will do to do this."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 30.8,
+            "end": 33.8,
+            "text": " Let's talk about how our function will look."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 33.8,
+            "end": 37.8,
+            "text": " We will see some functions in which we have the same parameter n."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 37.8,
+            "end": 40.8,
+            "text": " Now we will print n before we print."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 40.8,
+            "end": 45.8,
+            "text": " What we want to do is, we want to print n minus 1 to all the numbers."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 45.8,
+            "end": 46.8,
+            "text": " What does it mean?"
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 46.8,
+            "end": 51.8,
+            "text": " If we have any function n, which is printed n to n by 1."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 51.8,
+            "end": 53.8,
+            "text": " So what we will do in this function?"
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 53.8,
+            "end": 56.8,
+            "text": " First, we will print n minus 1 to all the numbers."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 56.8,
+            "end": 58.8,
+            "text": " Then we will print n."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 58.8,
+            "end": 61.8,
+            "text": " So what does this f of n minus 1 do?"
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 61.8,
+            "end": 65.8,
+            "text": " This f of n minus 2 to all the numbers will print."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 65.8,
+            "end": 66.8,
+            "text": " What will we do?"
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 66.8,
+            "end": 70.8,
+            "text": " This is the first time we have done this."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 70.8,
+            "end": 76.8,
+            "text": " The first time we did this, if we have n, then we have printed n."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 76.8,
+            "end": 79.8,
+            "text": " Then we have called f of n minus 1."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 79.8,
+            "end": 82.8,
+            "text": " This time we are writing this call as the first."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 82.8,
+            "end": 86.8,
+            "text": " So we are printing 4 to all the numbers."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 86.8,
+            "end": 90.8,
+            "text": " Then we print 5 to all the numbers."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 90.8,
+            "end": 93.8,
+            "text": " Then we print 3 to all the numbers."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 93.8,
+            "end": 97.8,
+            "text": " Then we print 2 to all the numbers."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 97.8,
+            "end": 100.8,
+            "text": " So we have to write code in our function."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 100.8,
+            "end": 105.8,
+            "text": " First, we will call n minus 1 to all the numbers."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 105.8,
+            "end": 108.8,
+            "text": " Then we will print n."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 108.8,
+            "end": 111.8,
+            "text": " So here we will be able to write our base case."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 111.8,
+            "end": 114.8,
+            "text": " In this base case, we have to do the same base case."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 114.8,
+            "end": 117.8,
+            "text": " Like our n value 1 is equal to equal to equal to equal to this."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 117.8,
+            "end": 121.8,
+            "text": " So we will print it and then return it."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 121.8,
+            "end": 123.8,
+            "text": " So we have to write the same function."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 123.8,
+            "end": 126.8,
+            "text": " So we have to do this, we have to reverse these two statements."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 126.8,
+            "end": 128.8,
+            "text": " And we have to reverse them."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 128.8,
+            "end": 132.8,
+            "text": " And our order will be converted from decreasing to increasing."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 132.8,
+            "end": 134.8,
+            "text": " Now we will write our recursion function."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 134.8,
+            "end": 137.8,
+            "text": " Public static void."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 138.8,
+            "end": 140.8,
+            "text": " This time we will write print increasing."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 140.8,
+            "end": 142.8,
+            "text": " Because we have to print in increasing order."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 142.8,
+            "end": 144.8,
+            "text": " We will pass the parameter n to the start."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 144.8,
+            "end": 149.8,
+            "text": " What we have to do in the beginning is to do n minus 1."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 149.8,
+            "end": 151.8,
+            "text": " That is to print n minus 1 to the elements of the element."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 151.8,
+            "end": 153.8,
+            "text": " Then we will print it himself."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 153.8,
+            "end": 155.8,
+            "text": " Because all the small ones are printed."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 155.8,
+            "end": 157.8,
+            "text": " Now we have to print the big ones."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 157.8,
+            "end": 159.8,
+            "text": " So what we will do is print increasing."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 159.8,
+            "end": 162.8,
+            "text": " We will call print increasing for n minus 1 numbers."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 162.8,
+            "end": 165.8,
+            "text": " Then finally we will print it himself."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 165.8,
+            "end": 166.8,
+            "text": " Print."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 167.8,
+            "end": 169.8,
+            "text": " And what will happen in the base case?"
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 169.8,
+            "end": 173.8,
+            "text": " The base case will be that if the value of n is at any point, then it will become 1."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 173.8,
+            "end": 175.8,
+            "text": " So what we have to do in this case is the same thing."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 175.8,
+            "end": 180.8,
+            "text": " In that case we will print n and return it from there."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 181.8,
+            "end": 186.8,
+            "text": " And from the main function we will call it print increasing."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 188.8,
+            "end": 193.8,
+            "text": " So this time we have to print the whole entire entire order from sequence to 10."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 194.8,
+            "end": 200.8,
+            "text": " If I pass 5 here, then the same thing will be in the same order."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 200.8,
+            "end": 203.8,
+            "text": " Now we have analyzed the whole process."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 203.8,
+            "end": 205.8,
+            "text": " We will analyze the call stack once we analyze it."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 205.8,
+            "end": 208.8,
+            "text": " So that we analyze the next question in the next question."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 208.8,
+            "end": 210.8,
+            "text": " So that we can analyze it by actually seeing the call stack."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 210.8,
+            "end": 216.8,
+            "text": " So in the call stack, we have written a code in our editor."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 216.8,
+            "end": 220.8,
+            "text": " The first thing we will do is the main method."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 220.8,
+            "end": 227.8,
+            "text": " The main method has called this function and what we have done is pass n as 5."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 227.8,
+            "end": 231.8,
+            "text": " So the main is between us a single parameter which is equal to 5."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 231.8,
+            "end": 234.8,
+            "text": " Now the main has called up to 5."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 234.8,
+            "end": 239.8,
+            "text": " When we have called it up to 5, then the print has come to us where n is equal to 5."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 239.8,
+            "end": 242.8,
+            "text": " Now what we have done first in the print increasing."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 242.8,
+            "end": 245.8,
+            "text": " First we will come in the function and in the print increasing."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 245.8,
+            "end": 248.8,
+            "text": " n is equal to 1 compared to this condition falls."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 248.8,
+            "end": 251.8,
+            "text": " Then we will execute this statement."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 251.8,
+            "end": 253.8,
+            "text": " What will we execute this statement?"
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 253.8,
+            "end": 256.8,
+            "text": " For us, n minus 1 is the print increasing call."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 256.8,
+            "end": 259.8,
+            "text": " n minus 1 is the print increasing call."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 259.8,
+            "end": 261.8,
+            "text": " Then we will call frames in another call stack."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 261.8,
+            "end": 263.8,
+            "text": " They call frames."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 263.8,
+            "end": 267.8,
+            "text": " There is no other interview in the print increasing."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 267.8,
+            "end": 269.8,
+            "text": " The print is passed in the print increasing."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 269.8,
+            "end": 271.8,
+            "text": " n is equal to 4."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 271.8,
+            "end": 272.8,
+            "text": " n is equal to 4."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 272.8,
+            "end": 274.8,
+            "text": " We have come in this function again."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 274.8,
+            "end": 276.8,
+            "text": " This time, n value is 4."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 276.8,
+            "end": 279.8,
+            "text": " So n is equal to 1 compared to this condition falls."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 279.8,
+            "end": 281.8,
+            "text": " Then we have executed this statement."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 281.8,
+            "end": 283.8,
+            "text": " That is, n minus 1 is another call."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 283.8,
+            "end": 285.8,
+            "text": " Now n minus 1 is another call."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 285.8,
+            "end": 289.8,
+            "text": " That means, one more call frame has come in our stack."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 289.8,
+            "end": 291.8,
+            "text": " The print increasing is the next call."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 291.8,
+            "end": 293.8,
+            "text": " Now n is equal to 3."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 293.8,
+            "end": 294.8,
+            "text": " n is equal to 3."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 294.8,
+            "end": 296.8,
+            "text": " In the function, this statement falls."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 296.8,
+            "end": 298.8,
+            "text": " We will execute this statement."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 298.8,
+            "end": 301.8,
+            "text": " As this statement is executed, one more call is applied."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 301.8,
+            "end": 302.8,
+            "text": " One more call is applied."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 302.8,
+            "end": 305.8,
+            "text": " For print increasing, where n value is 2."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 305.8,
+            "end": 307.8,
+            "text": " Now n is equal to 2."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 307.8,
+            "end": 310.8,
+            "text": " Here, the statement falls again."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 310.8,
+            "end": 312.8,
+            "text": " Then we will execute this statement."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 312.8,
+            "end": 316.8,
+            "text": " So print will go up to another call of increasing."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 316.8,
+            "end": 318.8,
+            "text": " And what will happen in this call?"
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 318.8,
+            "end": 321.8,
+            "text": " This time, n is equal to 1."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 321.8,
+            "end": 323.8,
+            "text": " n is equal to 1."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 323.8,
+            "end": 326.8,
+            "text": " We will compare this statement to this."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 326.8,
+            "end": 328.8,
+            "text": " This condition will be true."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 328.8,
+            "end": 330.8,
+            "text": " So, the inner statements will be executed."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 330.8,
+            "end": 333.8,
+            "text": " First of all, we will print 1."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 334.8,
+            "end": 336.8,
+            "text": " So, we will print 1."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 336.8,
+            "end": 338.8,
+            "text": " We have printed 1."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 338.8,
+            "end": 341.8,
+            "text": " Now, we will simply get the return from our function."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 341.8,
+            "end": 344.8,
+            "text": " That is, these two statements will never be executed for one."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 344.8,
+            "end": 346.8,
+            "text": " And we will get the return from one."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 346.8,
+            "end": 348.8,
+            "text": " Once we get the return from one,"
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 348.8,
+            "end": 352.8,
+            "text": " then the call frame will be removed from the call stack."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 352.8,
+            "end": 354.8,
+            "text": " Now, we have come back."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 354.8,
+            "end": 356.8,
+            "text": " We have come back."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 356.8,
+            "end": 357.8,
+            "text": " n is equal to 2."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 357.8,
+            "end": 358.8,
+            "text": " n is equal to 2."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 358.8,
+            "end": 360.8,
+            "text": " As we have come, n is equal to 2."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 360.8,
+            "end": 362.8,
+            "text": " This statement has been executed for 2."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 362.8,
+            "end": 364.8,
+            "text": " Now, we will execute this statement."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 364.8,
+            "end": 366.8,
+            "text": " That is, the one who is going to print n."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 366.8,
+            "end": 367.8,
+            "text": " What is n here?"
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 367.8,
+            "end": 368.8,
+            "text": " n is equal to 2."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 368.8,
+            "end": 369.8,
+            "text": " So, we will print 2."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 369.8,
+            "end": 371.8,
+            "text": " After that, if there is no more statement,"
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 371.8,
+            "end": 373.8,
+            "text": " then we will return from this function call."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 373.8,
+            "end": 376.8,
+            "text": " As we have returned, we have come to this call frame."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 376.8,
+            "end": 379.8,
+            "text": " And here, the function on top of the top,"
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 379.8,
+            "end": 381.8,
+            "text": " which will be removed from the memory."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 381.8,
+            "end": 383.8,
+            "text": " Now, what will happen to us?"
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 383.8,
+            "end": 384.8,
+            "text": " This statement has executed."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 384.8,
+            "end": 386.8,
+            "text": " Now, we will print n here."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 386.8,
+            "end": 388.8,
+            "text": " We will return from the other side."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 388.8,
+            "end": 390.8,
+            "text": " As we have returned from the other side,"
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 390.8,
+            "end": 392.8,
+            "text": " and we have come to this call frame."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 392.8,
+            "end": 394.8,
+            "text": " Here, n value is 4."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 394.8,
+            "end": 396.8,
+            "text": " We will print n from the other side."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 396.8,
+            "end": 398.8,
+            "text": " It will be 4."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 398.8,
+            "end": 400.8,
+            "text": " We will return from the other side and go to this level."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 400.8,
+            "end": 403.8,
+            "text": " And the top level, which is completely empty,"
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 403.8,
+            "end": 405.8,
+            "text": " we will print it after that."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 405.8,
+            "end": 407.8,
+            "text": " We will return from the other side."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 407.8,
+            "end": 409.8,
+            "text": " Now, in the main function,"
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 409.8,
+            "end": 411.8,
+            "text": " there is no more work in the main function."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 411.8,
+            "end": 413.8,
+            "text": " So, here, the simple program will be n."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 413.8,
+            "end": 416.8,
+            "text": " In which the top call stack will be removed."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 416.8,
+            "end": 418.8,
+            "text": " So, we have got the output."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 418.8,
+            "end": 420.8,
+            "text": " We have got the output in the increasing order."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 420.8,
+            "end": 421.8,
+            "text": " From 1 to 5."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 421.8,
+            "end": 423.8,
+            "text": " The first print is 1,"
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 423.8,
+            "end": 425.8,
+            "text": " 1, 2, 3, 4, 5."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 425.8,
+            "end": 429.8,
+            "text": " It is very important to know that in the consistency statement,"
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 429.8,
+            "end": 431.8,
+            "text": " our function call will be,"
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 431.8,
+            "end": 433.8,
+            "text": " the recursion call will be,"
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 433.8,
+            "end": 435.8,
+            "text": " we want to first recursion from the print."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 435.8,
+            "end": 437.8,
+            "text": " Or we want to recursion from the print."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 437.8,
+            "end": 439.8,
+            "text": " So, the small things that we will understand,"
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 439.8,
+            "end": 440.8,
+            "text": " we will ask them questions."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 440.8,
+            "end": 442.8,
+            "text": " They will analyze their call stack."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 442.8,
+            "end": 444.8,
+            "text": " So, you will get this clear result."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 444.8,
+            "end": 447.8,
+            "text": " So, it is very easy to remember."
+        },
+        {
+            "number": " 4",
+            "title": " Print numbers in increasing order",
+            "start": 447.8,
+            "end": 450.8,
+            "text": " And we will understand the recursion in the call stack method."
+        }
+    ],
+    "text": " In the last problem, we have analyzed the call stack and understood the recursion very well. Now we have to do the recursion speed and increase the speed of the whole process. Let's talk about problem 2. Problem 2 is exactly the same. We have to do print numbers, but we have to print in an increasing order. That is, we have to take 1 from 1 to n. So if we give n equal to 5, what will we do? We will print 1, 2, 3, 4 and 5. Now we will talk about what we will do to do this. Let's talk about how our function will look. We will see some functions in which we have the same parameter n. Now we will print n before we print. What we want to do is, we want to print n minus 1 to all the numbers. What does it mean? If we have any function n, which is printed n to n by 1. So what we will do in this function? First, we will print n minus 1 to all the numbers. Then we will print n. So what does this f of n minus 1 do? This f of n minus 2 to all the numbers will print. What will we do? This is the first time we have done this. The first time we did this, if we have n, then we have printed n. Then we have called f of n minus 1. This time we are writing this call as the first. So we are printing 4 to all the numbers. Then we print 5 to all the numbers. Then we print 3 to all the numbers. Then we print 2 to all the numbers. So we have to write code in our function. First, we will call n minus 1 to all the numbers. Then we will print n. So here we will be able to write our base case. In this base case, we have to do the same base case. Like our n value 1 is equal to equal to equal to equal to this. So we will print it and then return it. So we have to write the same function. So we have to do this, we have to reverse these two statements. And we have to reverse them. And our order will be converted from decreasing to increasing. Now we will write our recursion function. Public static void. This time we will write print increasing. Because we have to print in increasing order. We will pass the parameter n to the start. What we have to do in the beginning is to do n minus 1. That is to print n minus 1 to the elements of the element. Then we will print it himself. Because all the small ones are printed. Now we have to print the big ones. So what we will do is print increasing. We will call print increasing for n minus 1 numbers. Then finally we will print it himself. Print. And what will happen in the base case? The base case will be that if the value of n is at any point, then it will become 1. So what we have to do in this case is the same thing. In that case we will print n and return it from there. And from the main function we will call it print increasing. So this time we have to print the whole entire entire order from sequence to 10. If I pass 5 here, then the same thing will be in the same order. Now we have analyzed the whole process. We will analyze the call stack once we analyze it. So that we analyze the next question in the next question. So that we can analyze it by actually seeing the call stack. So in the call stack, we have written a code in our editor. The first thing we will do is the main method. The main method has called this function and what we have done is pass n as 5. So the main is between us a single parameter which is equal to 5. Now the main has called up to 5. When we have called it up to 5, then the print has come to us where n is equal to 5. Now what we have done first in the print increasing. First we will come in the function and in the print increasing. n is equal to 1 compared to this condition falls. Then we will execute this statement. What will we execute this statement? For us, n minus 1 is the print increasing call. n minus 1 is the print increasing call. Then we will call frames in another call stack. They call frames. There is no other interview in the print increasing. The print is passed in the print increasing. n is equal to 4. n is equal to 4. We have come in this function again. This time, n value is 4. So n is equal to 1 compared to this condition falls. Then we have executed this statement. That is, n minus 1 is another call. Now n minus 1 is another call. That means, one more call frame has come in our stack. The print increasing is the next call. Now n is equal to 3. n is equal to 3. In the function, this statement falls. We will execute this statement. As this statement is executed, one more call is applied. One more call is applied. For print increasing, where n value is 2. Now n is equal to 2. Here, the statement falls again. Then we will execute this statement. So print will go up to another call of increasing. And what will happen in this call? This time, n is equal to 1. n is equal to 1. We will compare this statement to this. This condition will be true. So, the inner statements will be executed. First of all, we will print 1. So, we will print 1. We have printed 1. Now, we will simply get the return from our function. That is, these two statements will never be executed for one. And we will get the return from one. Once we get the return from one, then the call frame will be removed from the call stack. Now, we have come back. We have come back. n is equal to 2. n is equal to 2. As we have come, n is equal to 2. This statement has been executed for 2. Now, we will execute this statement. That is, the one who is going to print n. What is n here? n is equal to 2. So, we will print 2. After that, if there is no more statement, then we will return from this function call. As we have returned, we have come to this call frame. And here, the function on top of the top, which will be removed from the memory. Now, what will happen to us? This statement has executed. Now, we will print n here. We will return from the other side. As we have returned from the other side, and we have come to this call frame. Here, n value is 4. We will print n from the other side. It will be 4. We will return from the other side and go to this level. And the top level, which is completely empty, we will print it after that. We will return from the other side. Now, in the main function, there is no more work in the main function. So, here, the simple program will be n. In which the top call stack will be removed. So, we have got the output. We have got the output in the increasing order. From 1 to 5. The first print is 1, 1, 2, 3, 4, 5. It is very important to know that in the consistency statement, our function call will be, the recursion call will be, we want to first recursion from the print. Or we want to recursion from the print. So, the small things that we will understand, we will ask them questions. They will analyze their call stack. So, you will get this clear result. So, it is very easy to remember. And we will understand the recursion in the call stack method."
+}

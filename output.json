@@ -1,0 +1,182 @@
+[
+    {
+        "start": 0.0,
+        "end": 6.48,
+        "text": " Now when stack becomes memory, then we talk about another concept, it is stack overflow."
+    },
+    {
+        "start": 6.48,
+        "end": 11.98,
+        "text": " We talked about every level in call stack, all the parameters are stored."
+    },
+    {
+        "start": 11.98,
+        "end": 17.54,
+        "text": " If we have made a main function, then we will have to make a, b, c, t, parameters."
+    },
+    {
+        "start": 17.54,
+        "end": 20.66,
+        "text": " After that we have made a function for recursion."
+    },
+    {
+        "start": 20.66,
+        "end": 24.7,
+        "text": " So if we make an array, then it will become an array."
+    },
+    {
+        "start": 24.7,
+        "end": 29.1,
+        "text": " Then from the second, if we are making an array, it will be in the same function."
+    },
+    {
+        "start": 29.1,
+        "end": 30.8,
+        "text": " So from the second, it will become an array."
+    },
+    {
+        "start": 30.8,
+        "end": 34.06,
+        "text": " So in this way, every parameter becomes a memory."
+    },
+    {
+        "start": 34.06,
+        "end": 39.78,
+        "text": " So there are two situations, one is that your parameters are very high."
+    },
+    {
+        "start": 39.78,
+        "end": 46.94,
+        "text": " On the time of recursion and the individual parameters of the parameters are very high."
+    },
+    {
+        "start": 46.94,
+        "end": 50.94,
+        "text": " Meaning that you are making a very large array of the array on every recursion call."
+    },
+    {
+        "start": 50.94,
+        "end": 55.18000000000001,
+        "text": " Or in the second case, which is very high, we are calling recursion."
+    },
+    {
+        "start": 55.18000000000001,
+        "end": 57.1,
+        "text": " Two many calls."
+    },
+    {
+        "start": 57.1,
+        "end": 62.9,
+        "text": " When we call many recursions, then small parameters also become very high in memory."
+    },
+    {
+        "start": 62.9,
+        "end": 63.9,
+        "text": " So what happens?"
+    },
+    {
+        "start": 63.9,
+        "end": 67.6,
+        "text": " One point is that when our stack is completely filled with the entire array."
+    },
+    {
+        "start": 67.6,
+        "end": 70.3,
+        "text": " Then there will not be any place in our memory."
+    },
+    {
+        "start": 70.3,
+        "end": 72.9,
+        "text": " That situation is called stack overflow."
+    },
+    {
+        "start": 72.9,
+        "end": 77.5,
+        "text": " Now because of all the memory, there is an array that is called stack overflow."
+    },
+    {
+        "start": 77.5,
+        "end": 82.3,
+        "text": " Meaning in your memory, whatever was called stack, we have taken all the places in the whole area."
+    },
+    {
+        "start": 82.3,
+        "end": 85.1,
+        "text": " Now there is no more calls in memory."
+    },
+    {
+        "start": 85.1,
+        "end": 88.69999999999999,
+        "text": " That is why recursion is very dangerous in those cases."
+    },
+    {
+        "start": 88.69999999999999,
+        "end": 93.69999999999999,
+        "text": " So whenever we write a recursive function, we always have a base case."
+    },
+    {
+        "start": 93.69999999999999,
+        "end": 97.1,
+        "text": " We will know that we have to stop the recursion from base case."
+    },
+    {
+        "start": 97.1,
+        "end": 101.1,
+        "text": " When you will drop this base case, then our stack overflow will be stack."
+    },
+    {
+        "start": 101.1,
+        "end": 103.1,
+        "text": " And our program will crash."
+    },
+    {
+        "start": 103.1,
+        "end": 106.69999999999999,
+        "text": " Suppose if I have a code, I have this base case."
+    },
+    {
+        "start": 106.69999999999999,
+        "end": 110.69999999999999,
+        "text": " I will drop it and now try to run my program."
+    },
+    {
+        "start": 110.69999999999999,
+        "end": 112.3,
+        "text": " So in this case, what will happen?"
+    },
+    {
+        "start": 112.3,
+        "end": 114.7,
+        "text": " In that case, there will be no value printing."
+    },
+    {
+        "start": 114.7,
+        "end": 115.7,
+        "text": " My output will not come."
+    },
+    {
+        "start": 115.7,
+        "end": 120.1,
+        "text": " Because every function is not stopped by any function."
+    },
+    {
+        "start": 120.1,
+        "end": 122.7,
+        "text": " So after a point, my program has crashed."
+    },
+    {
+        "start": 122.7,
+        "end": 125.89999999999999,
+        "text": " It has stopped because there is no print."
+    },
+    {
+        "start": 125.89999999999999,
+        "end": 128.3,
+        "text": " My call stack is completely overflowed."
+    },
+    {
+        "start": 128.3,
+        "end": 132.3,
+        "text": " That is why whenever we write a recursive function, we should definitely have a base case."
+    }
+]

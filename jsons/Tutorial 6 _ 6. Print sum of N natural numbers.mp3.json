@@ -1,0 +1,1055 @@
+{
+    "chunks": [
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 0.0,
+            "end": 2.0,
+            "text": " Next question is, what is the point of the principle?"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 2.0,
+            "end": 5.0,
+            "text": " It is the print sum of force to end natural numbers."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 5.0,
+            "end": 6.0,
+            "text": " What we have to do?"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 6.0,
+            "end": 9.0,
+            "text": " If we assume that n is equal to 5,"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 9.0,
+            "end": 12.0,
+            "text": " then we have to make fn a function,"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 12.0,
+            "end": 15.0,
+            "text": " which is the number of natural numbers that are given to us by the sum of 5."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 15.0,
+            "end": 21.0,
+            "text": " So, in a way, we can say that fn is equal to n plus f of n minus 1."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 21.0,
+            "end": 24.0,
+            "text": " n minus 1 is the number of natural numbers,"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 24.0,
+            "end": 27.0,
+            "text": " then we will add n to them, so that all the natural numbers will be understood."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 27.0,
+            "end": 28.0,
+            "text": " How will it be?"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 28.0,
+            "end": 31.0,
+            "text": " We are calculating f of 5,"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 31.0,
+            "end": 33.0,
+            "text": " so it will be 5 plus f of 4."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 33.0,
+            "end": 35.0,
+            "text": " What will be f of 4?"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 35.0,
+            "end": 36.0,
+            "text": " 4 plus f of 3."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 36.0,
+            "end": 38.0,
+            "text": " What will be f of 3?"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 38.0,
+            "end": 39.0,
+            "text": " 3 plus f of 2."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 39.0,
+            "end": 41.0,
+            "text": " What will be f of 2?"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 41.0,
+            "end": 44.0,
+            "text": " 2 plus f of 1."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 44.0,
+            "end": 45.0,
+            "text": " Now, f of 1,"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 45.0,
+            "end": 49.0,
+            "text": " we know that all the natural numbers of 1 are obviously 1."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 49.0,
+            "end": 52.0,
+            "text": " So, we will return 1 here."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 52.0,
+            "end": 54.0,
+            "text": " We will return 1 here,"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 54.0,
+            "end": 56.0,
+            "text": " which is the sum of 2,"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 56.0,
+            "end": 57.0,
+            "text": " which is 3."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 57.0,
+            "end": 58.0,
+            "text": " We will return 1 here,"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 58.0,
+            "end": 59.0,
+            "text": " which is 6."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 59.0,
+            "end": 60.0,
+            "text": " We will return 1 here,"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 60.0,
+            "end": 61.0,
+            "text": " which is 10."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 61.0,
+            "end": 64.0,
+            "text": " And we will get the final answer of our 15."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 64.0,
+            "end": 66.0,
+            "text": " So, in this way, we have to do a recursion."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 66.0,
+            "end": 69.0,
+            "text": " Now, we will reduce this diagram a little bit."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 69.0,
+            "end": 70.0,
+            "text": " What is our code?"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 70.0,
+            "end": 72.0,
+            "text": " First of all, we are making a function,"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 72.0,
+            "end": 74.0,
+            "text": " which is given the sum."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 74.0,
+            "end": 76.0,
+            "text": " The sum will pass in the sum,"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 76.0,
+            "end": 78.0,
+            "text": " which will return 1,"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 78.0,
+            "end": 81.0,
+            "text": " sum of 1st n natural numbers."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 81.0,
+            "end": 83.0,
+            "text": " So, to get the sum,"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 83.0,
+            "end": 85.0,
+            "text": " first of all, we need to understand the n-1."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 85.0,
+            "end": 87.0,
+            "text": " So, how will we get the sum of n-1?"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 87.0,
+            "end": 90.0,
+            "text": " S of n-1 is equal to,"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 90.0,
+            "end": 93.0,
+            "text": " we will call the sum again for n-1."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 93.0,
+            "end": 95.0,
+            "text": " So, what will be the sum of n?"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 95.0,
+            "end": 98.0,
+            "text": " n plus sum of n-1."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 98.0,
+            "end": 101.0,
+            "text": " And here, we will return the sum of n."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 101.0,
+            "end": 103.0,
+            "text": " What will be the base case?"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 103.0,
+            "end": 104.0,
+            "text": " The base case will be that,"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 104.0,
+            "end": 107.0,
+            "text": " if any value of n is given at any point,"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 107.0,
+            "end": 110.0,
+            "text": " then, you know what will be the sum of n?"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 110.0,
+            "end": 111.0,
+            "text": " n."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 111.0,
+            "end": 113.0,
+            "text": " So, this is a very simple recursion function."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 113.0,
+            "end": 115.0,
+            "text": " This is the same pattern following."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 115.0,
+            "end": 117.0,
+            "text": " What we do for factorial?"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 117.0,
+            "end": 119.0,
+            "text": " We multiply the sum here for factorial."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 119.0,
+            "end": 122.0,
+            "text": " For sum, we will get the sum here plus sum."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 122.0,
+            "end": 125.0,
+            "text": " We write the same pattern with the recursion,"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 125.0,
+            "end": 128.0,
+            "text": " and we see the recursion in the functions."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 128.0,
+            "end": 130.0,
+            "text": " Now, let's write a code."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 130.0,
+            "end": 132.0,
+            "text": " We will make a function."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 134.0,
+            "end": 137.0,
+            "text": " Public static int."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 137.0,
+            "end": 139.0,
+            "text": " We give the calculate sum name."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 139.0,
+            "end": 142.0,
+            "text": " We will pass the integer n in the calculate sum."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 142.0,
+            "end": 145.0,
+            "text": " We will pass the integer n in the calculate sum."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 145.0,
+            "end": 147.0,
+            "text": " What we will do first?"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 147.0,
+            "end": 150.0,
+            "text": " We will calculate the number of n-1."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 150.0,
+            "end": 153.0,
+            "text": " Sum of n-1 is equal to,"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 153.0,
+            "end": 156.0,
+            "text": " calculate sum of n-1."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 156.0,
+            "end": 159.0,
+            "text": " We will get the sum of n-1."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 159.0,
+            "end": 161.0,
+            "text": " We will get the sum of n-1."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 161.0,
+            "end": 163.0,
+            "text": " And then,"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 163.0,
+            "end": 165.0,
+            "text": " we will calculate the sum of n."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 165.0,
+            "end": 168.0,
+            "text": " Which is going to be n plus sum of n-1."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 169.0,
+            "end": 171.0,
+            "text": " And we will return the sum of n here."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 171.0,
+            "end": 173.0,
+            "text": " What will be the basis?"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 173.0,
+            "end": 176.0,
+            "text": " The basis is going to be the basis that,"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 176.0,
+            "end": 179.0,
+            "text": " if n is equal to any point,"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 179.0,
+            "end": 182.0,
+            "text": " then we will get the sum of n-1."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 182.0,
+            "end": 184.0,
+            "text": " If n is equal to the sum of n,"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 184.0,
+            "end": 186.0,
+            "text": " we will get the sum of n-1."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 186.0,
+            "end": 189.0,
+            "text": " We will do this with the same function in the call."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 189.0,
+            "end": 192.0,
+            "text": " We will calculate the sum for n."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 192.0,
+            "end": 194.0,
+            "text": " Now, let's do this."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 194.0,
+            "end": 197.0,
+            "text": " For 5, we will get the sum of n-1."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 197.0,
+            "end": 200.0,
+            "text": " Now, we will analyze the call stack."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 200.0,
+            "end": 203.0,
+            "text": " I hope that once you pause and analyze the call stack by yourself."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 203.0,
+            "end": 205.0,
+            "text": " Let's see once again."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 205.0,
+            "end": 207.0,
+            "text": " What the main function did?"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 207.0,
+            "end": 209.0,
+            "text": " n is equal to 5."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 209.0,
+            "end": 211.0,
+            "text": " n is equal to 5."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 211.0,
+            "end": 214.0,
+            "text": " Then, we will calculate the sum of the function."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 214.0,
+            "end": 216.0,
+            "text": " Which we have passed n is equal to 5."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 216.0,
+            "end": 218.0,
+            "text": " What we have done first?"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 218.0,
+            "end": 221.0,
+            "text": " First, we have calculated the sum of n-1."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 221.0,
+            "end": 225.0,
+            "text": " So, we will get the sum of n is equal to n plus sum of n-1."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 225.0,
+            "end": 228.0,
+            "text": " And, based on the case, if n is equal to 1,"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 228.0,
+            "end": 232.0,
+            "text": " then we will return it to 1."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 232.0,
+            "end": 234.0,
+            "text": " So, first of all,"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 234.0,
+            "end": 236.0,
+            "text": " n is equal to 5."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 236.0,
+            "end": 238.0,
+            "text": " We will get the sum of n-1."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 238.0,
+            "end": 240.0,
+            "text": " If we get the sum of n-1,"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 240.0,
+            "end": 242.0,
+            "text": " we will get the sum of n-1."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 242.0,
+            "end": 244.0,
+            "text": " n is equal to 4."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 244.0,
+            "end": 245.0,
+            "text": " n is equal to 4."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 245.0,
+            "end": 246.0,
+            "text": " n is equal to 3."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 246.0,
+            "end": 248.0,
+            "text": " So, we will get the sum of n-1."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 248.0,
+            "end": 250.0,
+            "text": " n is equal to 3."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 250.0,
+            "end": 252.0,
+            "text": " n is equal to 3."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 252.0,
+            "end": 255.0,
+            "text": " n-1 means n is equal to 2."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 255.0,
+            "end": 257.0,
+            "text": " So, calculate sum."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 257.0,
+            "end": 259.0,
+            "text": " Whenever we are applying calls,"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 259.0,
+            "end": 261.0,
+            "text": " we are checking every single statement."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 261.0,
+            "end": 263.0,
+            "text": " This condition is falling every time."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 263.0,
+            "end": 265.0,
+            "text": " That is why we are applying this statement repeatedly."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 265.0,
+            "end": 267.0,
+            "text": " Now, n is equal to 2."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 267.0,
+            "end": 271.0,
+            "text": " We will get the sum of n equal to 1."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 271.0,
+            "end": 273.0,
+            "text": " As we get n equal to 1."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 273.0,
+            "end": 276.0,
+            "text": " This condition has been true."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 276.0,
+            "end": 278.0,
+            "text": " n is equal to 1."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 278.0,
+            "end": 281.0,
+            "text": " So, we will get the sum of n equal to 1."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 281.0,
+            "end": 284.0,
+            "text": " We will get the function call from the other level."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 284.0,
+            "end": 286.0,
+            "text": " What will we get from this level?"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 286.0,
+            "end": 288.0,
+            "text": " We will get the sum of n equal to 2."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 288.0,
+            "end": 290.0,
+            "text": " This will be 2 plus 1."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 290.0,
+            "end": 292.0,
+            "text": " This will be 3."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 292.0,
+            "end": 295.0,
+            "text": " This will return 3."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 295.0,
+            "end": 298.0,
+            "text": " We will get the sum of n equal to 3."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 298.0,
+            "end": 300.0,
+            "text": " And then what will we do from the other level?"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 300.0,
+            "end": 304.0,
+            "text": " We will calculate 3 plus 3."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 304.0,
+            "end": 307.0,
+            "text": " This is the sum of n."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 307.0,
+            "end": 309.0,
+            "text": " I got the sum of n from this level."
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 309.0,
+            "end": 312.4,
+            "text": " Now what will the function return? This function will return 6"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 312.4,
+            "end": 315.56,
+            "text": " It has returned 6 and it has been saved from my memory"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 315.56,
+            "end": 319.2,
+            "text": " When it has been saved from memory, n is equal to 4"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 319.2,
+            "end": 321.6,
+            "text": " n is equal to 4, what will we do in the call of m?"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 321.6,
+            "end": 323.1,
+            "text": " We will add 4 in 6"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 323.1,
+            "end": 325.6,
+            "text": " So this function will be returning 10"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 325.6,
+            "end": 328.1,
+            "text": " and it will be saved from my memory"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 328.1,
+            "end": 330.1,
+            "text": " Now what will happen in the next call?"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 330.1,
+            "end": 334.2,
+            "text": " In the next call, we will calculate 10 plus 5"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 334.2,
+            "end": 336.7,
+            "text": " 10 plus 5 is calculated from 15"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 336.8,
+            "end": 338.8,
+            "text": " What will the function return?"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 338.8,
+            "end": 341.8,
+            "text": " It will return the main function as a final sum"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 341.8,
+            "end": 343.8,
+            "text": " What will the main function do?"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 343.8,
+            "end": 344.8,
+            "text": " It will be saved from 15"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 344.8,
+            "end": 348.8,
+            "text": " And the call that is on the top will be saved from my memory"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 348.8,
+            "end": 353.8,
+            "text": " In this way, every function has calculated its size"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 353.8,
+            "end": 356.8,
+            "text": " and its calculation process will be shown"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 356.8,
+            "end": 360.8,
+            "text": " If we take the time complexity, then time complexity will be big of n"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 360.8,
+            "end": 363.3,
+            "text": " Space complexity will be big of n"
+        },
+        {
+            "number": " 6",
+            "title": " Print sum of N natural numbers",
+            "start": 363.3,
+            "end": 367.40000000000003,
+            "text": " Because we have done n stack calls and every call has a variable form"
+        }
+    ],
+    "text": " Next question is, what is the point of the principle? It is the print sum of force to end natural numbers. What we have to do? If we assume that n is equal to 5, then we have to make fn a function, which is the number of natural numbers that are given to us by the sum of 5. So, in a way, we can say that fn is equal to n plus f of n minus 1. n minus 1 is the number of natural numbers, then we will add n to them, so that all the natural numbers will be understood. How will it be? We are calculating f of 5, so it will be 5 plus f of 4. What will be f of 4? 4 plus f of 3. What will be f of 3? 3 plus f of 2. What will be f of 2? 2 plus f of 1. Now, f of 1, we know that all the natural numbers of 1 are obviously 1. So, we will return 1 here. We will return 1 here, which is the sum of 2, which is 3. We will return 1 here, which is 6. We will return 1 here, which is 10. And we will get the final answer of our 15. So, in this way, we have to do a recursion. Now, we will reduce this diagram a little bit. What is our code? First of all, we are making a function, which is given the sum. The sum will pass in the sum, which will return 1, sum of 1st n natural numbers. So, to get the sum, first of all, we need to understand the n-1. So, how will we get the sum of n-1? S of n-1 is equal to, we will call the sum again for n-1. So, what will be the sum of n? n plus sum of n-1. And here, we will return the sum of n. What will be the base case? The base case will be that, if any value of n is given at any point, then, you know what will be the sum of n? n. So, this is a very simple recursion function. This is the same pattern following. What we do for factorial? We multiply the sum here for factorial. For sum, we will get the sum here plus sum. We write the same pattern with the recursion, and we see the recursion in the functions. Now, let's write a code. We will make a function. Public static int. We give the calculate sum name. We will pass the integer n in the calculate sum. We will pass the integer n in the calculate sum. What we will do first? We will calculate the number of n-1. Sum of n-1 is equal to, calculate sum of n-1. We will get the sum of n-1. We will get the sum of n-1. And then, we will calculate the sum of n. Which is going to be n plus sum of n-1. And we will return the sum of n here. What will be the basis? The basis is going to be the basis that, if n is equal to any point, then we will get the sum of n-1. If n is equal to the sum of n, we will get the sum of n-1. We will do this with the same function in the call. We will calculate the sum for n. Now, let's do this. For 5, we will get the sum of n-1. Now, we will analyze the call stack. I hope that once you pause and analyze the call stack by yourself. Let's see once again. What the main function did? n is equal to 5. n is equal to 5. Then, we will calculate the sum of the function. Which we have passed n is equal to 5. What we have done first? First, we have calculated the sum of n-1. So, we will get the sum of n is equal to n plus sum of n-1. And, based on the case, if n is equal to 1, then we will return it to 1. So, first of all, n is equal to 5. We will get the sum of n-1. If we get the sum of n-1, we will get the sum of n-1. n is equal to 4. n is equal to 4. n is equal to 3. So, we will get the sum of n-1. n is equal to 3. n is equal to 3. n-1 means n is equal to 2. So, calculate sum. Whenever we are applying calls, we are checking every single statement. This condition is falling every time. That is why we are applying this statement repeatedly. Now, n is equal to 2. We will get the sum of n equal to 1. As we get n equal to 1. This condition has been true. n is equal to 1. So, we will get the sum of n equal to 1. We will get the function call from the other level. What will we get from this level? We will get the sum of n equal to 2. This will be 2 plus 1. This will be 3. This will return 3. We will get the sum of n equal to 3. And then what will we do from the other level? We will calculate 3 plus 3. This is the sum of n. I got the sum of n from this level. Now what will the function return? This function will return 6 It has returned 6 and it has been saved from my memory When it has been saved from memory, n is equal to 4 n is equal to 4, what will we do in the call of m? We will add 4 in 6 So this function will be returning 10 and it will be saved from my memory Now what will happen in the next call? In the next call, we will calculate 10 plus 5 10 plus 5 is calculated from 15 What will the function return? It will return the main function as a final sum What will the main function do? It will be saved from 15 And the call that is on the top will be saved from my memory In this way, every function has calculated its size and its calculation process will be shown If we take the time complexity, then time complexity will be big of n Space complexity will be big of n Because we have done n stack calls and every call has a variable form"
+}

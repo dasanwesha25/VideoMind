@@ -1,0 +1,1643 @@
+{
+    "chunks": [
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 0.0,
+            "end": 2.38,
+            "text": " Now let's try solving a question."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 2.38,
+            "end": 4.88,
+            "text": " Problem 1, which we have to solve."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 4.88,
+            "end": 7.34,
+            "text": " This is the print numbers from n to 1."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 7.34,
+            "end": 9.98,
+            "text": " Meaning we have to print in a decreasing order."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 9.98,
+            "end": 12.46,
+            "text": " Suppose we have n value."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 12.46,
+            "end": 18.12,
+            "text": " So we have to print the numbers from 10, 9, 8, 7, 6, 5, 4, 3, 2 and 1."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 18.12,
+            "end": 19.94,
+            "text": " Now we have to print these numbers."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 19.94,
+            "end": 23.22,
+            "text": " So first of all, the approach that we are going to get in our brain is the easiest approach."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 23.22,
+            "end": 24.82,
+            "text": " We will apply a for loop."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 24.82,
+            "end": 27.36,
+            "text": " Int i is equal to 10 to start with this."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 27.36,
+            "end": 30.64,
+            "text": " Till the time i is equal to greater than or equal to 1,"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 30.64,
+            "end": 35.64,
+            "text": " i minus minus and every time we will print our i."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 35.64,
+            "end": 38.0,
+            "text": " So we will work on a for loop."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 38.0,
+            "end": 42.76,
+            "text": " But we will do the question of the number of numbers we want to solve with recursion."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 42.76,
+            "end": 46.68,
+            "text": " Now if my work is to print the values from 10 to 10."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 46.68,
+            "end": 50.16,
+            "text": " To print the values, I have to make a function f of n."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 50.16,
+            "end": 56.56,
+            "text": " The function of f of n is to print the values from n to 1."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 56.96,
+            "end": 62.32,
+            "text": " Now to implement f of n, it is easy to implement f of n minus 1."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 62.32,
+            "end": 65.32000000000001,
+            "text": " If f of n minus 1 is not, what did we do?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 65.32000000000001,
+            "end": 68.96000000000001,
+            "text": " We have to print the values from 9 to 1."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 68.96000000000001,
+            "end": 69.96000000000001,
+            "text": " So what to do?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 69.96000000000001,
+            "end": 71.96000000000001,
+            "text": " We have to print only 10."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 71.96000000000001,
+            "end": 72.96000000000001,
+            "text": " So what will I do?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 72.96000000000001,
+            "end": 76.96000000000001,
+            "text": " I will print the n and call it f of n minus 1."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 76.96000000000001,
+            "end": 79.36,
+            "text": " What is easy for f of n minus 1?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 79.36,
+            "end": 81.16,
+            "text": " It is easy for f of n minus 1."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 81.16,
+            "end": 87.56,
+            "text": " I will print the values from 8 to 1 and print only 9."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 87.56,
+            "end": 90.36,
+            "text": " Here the n is that is 10."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 90.36,
+            "end": 92.16,
+            "text": " This n minus 1 is 9."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 92.16,
+            "end": 95.16,
+            "text": " And here the n value is 10."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 95.16,
+            "end": 96.56,
+            "text": " So what will f of 9 do?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 96.56,
+            "end": 101.36,
+            "text": " It will print the 9 and call it f of 8."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 101.36,
+            "end": 105.96,
+            "text": " That the value of 8 will print the function from the inside and I believe that it will do it."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 105.96,
+            "end": 106.96,
+            "text": " What to do after that?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 106.96,
+            "end": 108.56,
+            "text": " I have to print only 9."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 108.56,
+            "end": 110.16,
+            "text": " And what will f of 8 do?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 110.16,
+            "end": 116.36,
+            "text": " It will print only 8 and I believe that the function from inside will print all the values from 7 to 1."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 116.36,
+            "end": 123.56,
+            "text": " So in this way, every function will call its inner function that n minus 1 to 1 will print all the values."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 123.56,
+            "end": 126.16,
+            "text": " So we have a function, how function is it?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 126.16,
+            "end": 130.96,
+            "text": " It is a function that is in the parameter of an integer value n."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 130.96,
+            "end": 132.76,
+            "text": " And what does this function do?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 132.76,
+            "end": 135.56,
+            "text": " First of all, it will print n."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 135.56,
+            "end": 141.16,
+            "text": " That is, the value of the n minus 1 to call the same thing."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 141.16,
+            "end": 145.96,
+            "text": " That n minus 1 to 1 will work only for inner level."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 145.96,
+            "end": 148.16,
+            "text": " Now there is one thing missing about this function."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 148.16,
+            "end": 149.76,
+            "text": " That is its base case."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 149.76,
+            "end": 151.36,
+            "text": " What is the base case?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 151.36,
+            "end": 154.36,
+            "text": " The base case will be like we have to reach 1 to 1."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 154.36,
+            "end": 155.36,
+            "text": " We have to stop."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 155.36,
+            "end": 156.96,
+            "text": " We have to call it for zero."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 156.96,
+            "end": 159.36,
+            "text": " Because we have to print 1 to 1."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 159.36,
+            "end": 161.36,
+            "text": " So we know the solution of 1 to 1."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 161.36,
+            "end": 165.96,
+            "text": " We will print the base case from there simply from there and then we will return."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 165.96,
+            "end": 170.96,
+            "text": " If we want to write a function, we will see the function like this."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 170.96,
+            "end": 173.96,
+            "text": " We have made the basic basic case of the recursion."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 173.96,
+            "end": 175.96,
+            "text": " In this, the main function is here."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 175.96,
+            "end": 177.96,
+            "text": " We have to define our n here."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 177.96,
+            "end": 179.96,
+            "text": " 10."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 179.96,
+            "end": 183.96,
+            "text": " After that, we will write our first recursive function."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 183.96,
+            "end": 184.96,
+            "text": " How?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 184.96,
+            "end": 186.96,
+            "text": " Public static, white."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 186.96,
+            "end": 187.96,
+            "text": " Why?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 187.96,
+            "end": 188.96,
+            "text": " Why?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 189.56,
+            "end": 192.76000000000002,
+            "text": " This function will not be given to the name print decreasing."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 192.76000000000002,
+            "end": 197.96,
+            "text": " We will pass the decreasing, our parameter n."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 197.96,
+            "end": 199.76000000000002,
+            "text": " Now what we did in recursion?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 199.76000000000002,
+            "end": 204.36,
+            "text": " There was a first step in recursion that we will define what will our function do."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 204.36,
+            "end": 205.36,
+            "text": " What will this function do?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 205.36,
+            "end": 208.36,
+            "text": " Will this function print the value of n?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 208.36,
+            "end": 210.36,
+            "text": " Let's create the value of n."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 210.36,
+            "end": 213.36,
+            "text": " Let's give a little space after that."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 213.36,
+            "end": 218.36,
+            "text": " After that, the function of the other function is to call our inner function to call n minus 1."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 218.36,
+            "end": 222.16000000000003,
+            "text": " Because we believe that all the functions of inner function will give us all the work."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 222.16000000000003,
+            "end": 226.16000000000003,
+            "text": " So here we will call the print decreasing for n minus 1."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 226.16000000000003,
+            "end": 229.56,
+            "text": " Now what we do with this function is to define a base case."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 229.56,
+            "end": 234.76000000000002,
+            "text": " So if n equals 1, just like we have reached the goal."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 234.76000000000002,
+            "end": 236.76000000000002,
+            "text": " What we do there?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 236.76000000000002,
+            "end": 244.76000000000002,
+            "text": " We will print there, n equals 1 and will return from here."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 244.82,
+            "end": 249.76,
+            "text": " This whole whole recursion function will print the values that are tensed and will be printed until 10."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 249.76,
+            "end": 254.76,
+            "text": " If we call it the main function, we analyze the output output."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 257.36,
+            "end": 262.15999999999997,
+            "text": " So what we will do is to print the values from 10, 9, 8, 7, 6, 5, 4, 3, 2, 1."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 262.15999999999997,
+            "end": 265.56,
+            "text": " How we print the values by the help of recursion?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 265.56,
+            "end": 267.56,
+            "text": " Now the values are print for us."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 267.56,
+            "end": 272.96,
+            "text": " Now let's analyze how we do recursion when we will do the work in memory."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 272.96,
+            "end": 276.96,
+            "text": " We have to understand that we call the stack."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 276.96,
+            "end": 283.96,
+            "text": " If the Java function is called as the call stack, then the stack becomes the data structure of the stack."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 283.96,
+            "end": 289.96,
+            "text": " If you keep the books on one page or on the other page, then it becomes stack in English."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 289.96,
+            "end": 296.96,
+            "text": " Whenever you keep the stack on one page, then the calls, method, calls, functions, calls,"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 296.96,
+            "end": 299.96,
+            "text": " then it becomes a stack inside memory."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 299.96,
+            "end": 306.96,
+            "text": " If you have a main function, then you have to call the function as the function of your Fun1 name."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 306.96,
+            "end": 313.96,
+            "text": " So what will be the stack that will be the main function, and the function of the main function will be the Fun1."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 313.96,
+            "end": 318.96,
+            "text": " Now, the parameters in the main function will be x, y, z, a, b, c."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 318.96,
+            "end": 322.96,
+            "text": " All the main functions will be stored in Fun1."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 322.96,
+            "end": 326.96,
+            "text": " If number 1, number 2 will be the parameters, then all the main functions will be stored here."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 326.96,
+            "end": 331.96,
+            "text": " So, the memory inside the stack is actually stored in the form of a stack."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 331.96,
+            "end": 336.96,
+            "text": " Now, whenever we recursion, we have to do this function in our decreasing function."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 336.96,
+            "end": 338.96,
+            "text": " What happened in the recursion?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 338.96,
+            "end": 342.96,
+            "text": " First of all, the main function has called this function."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 342.96,
+            "end": 345.96,
+            "text": " So, in the beginning, the main function has been stored."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 345.96,
+            "end": 348.96,
+            "text": " We defined the main function as n is equal to 10."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 348.96,
+            "end": 350.96,
+            "text": " So, a layer will be the main function."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 350.96,
+            "end": 355.96,
+            "text": " Now, the main function has called as the print decreasing function."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 355.96,
+            "end": 358.96,
+            "text": " So, here the print is decreasing."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 358.96,
+            "end": 360.96,
+            "text": " What are the parameters in the print decreasing?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 360.96,
+            "end": 362.96,
+            "text": " Only parameter n."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 362.96,
+            "end": 366.96,
+            "text": " So, this n value of 10 has been added here."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 366.96,
+            "end": 367.96,
+            "text": " How to call?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 367.96,
+            "end": 370.96,
+            "text": " Call is placed on the bottom of our bottom."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 370.96,
+            "end": 372.96,
+            "text": " After that, what the print decreasing function has done?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 372.96,
+            "end": 374.96,
+            "text": " Let us assume that we have reached the function."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 374.96,
+            "end": 376.96,
+            "text": " We checked the first thing we saw before that,"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 376.96,
+            "end": 378.96,
+            "text": " is the value of n value 1 equal to n value?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 378.96,
+            "end": 380.96,
+            "text": " n value is also equal to n value 1."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 380.96,
+            "end": 382.96,
+            "text": " So, we will not go into this condition."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 382.96,
+            "end": 384.96,
+            "text": " We will go to this condition."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 384.96,
+            "end": 388.96,
+            "text": " When we go to this statement, we have to print our n."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 388.96,
+            "end": 390.96,
+            "text": " So, we will print our n."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 390.96,
+            "end": 391.96,
+            "text": " What is the value of n?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 391.96,
+            "end": 392.96,
+            "text": " 10."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 392.96,
+            "end": 393.96,
+            "text": " We have print our 10."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 393.96,
+            "end": 395.96,
+            "text": " After that, we will go to our next line."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 395.96,
+            "end": 396.96,
+            "text": " What is the next line?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 396.96,
+            "end": 399.96,
+            "text": " Call is placed on the same call for n minus 1."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 399.96,
+            "end": 400.96,
+            "text": " So, what happened?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 400.96,
+            "end": 403.96,
+            "text": " Call stack will be placed in a call."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 403.96,
+            "end": 405.96,
+            "text": " For the same function."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 405.96,
+            "end": 407.96,
+            "text": " That is, for the print decreasing function,"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 407.96,
+            "end": 408.96,
+            "text": " we have called this call."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 408.96,
+            "end": 409.96,
+            "text": " But this time, we have passed n,"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 409.96,
+            "end": 411.96,
+            "text": " that n minus 1 is not here."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 411.96,
+            "end": 413.96,
+            "text": " So, we have placed the same function on the top."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 413.96,
+            "end": 416.96,
+            "text": " Now, when we come here for n equal to 9,"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 416.96,
+            "end": 417.96,
+            "text": " then we will check again,"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 417.96,
+            "end": 419.96,
+            "text": " whether n value 1 is here or not."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 419.96,
+            "end": 421.96,
+            "text": " If n value is 9, then this will not be executed."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 421.96,
+            "end": 425.96,
+            "text": " We will come here to print our n value here."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 425.96,
+            "end": 427.96,
+            "text": " So, we will print our n value."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 427.96,
+            "end": 430.96,
+            "text": " Our 9 will be printed for 9."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 430.96,
+            "end": 434.96,
+            "text": " Next line will be called as n minus 1."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 434.96,
+            "end": 436.96,
+            "text": " Here, what is n here?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 436.96,
+            "end": 437.96,
+            "text": " Here, it is 9."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 437.96,
+            "end": 439.96,
+            "text": " So, for 9 minus 1, we will call."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 439.96,
+            "end": 442.96,
+            "text": " For 9 minus 1, we will call as n minus 1."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 442.96,
+            "end": 445.96,
+            "text": " So, the print will be decreasing in the call stack."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 445.96,
+            "end": 448.96,
+            "text": " One more layer will be made, which n is equal to 8."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 448.96,
+            "end": 450.96,
+            "text": " 8 is like this."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 450.96,
+            "end": 453.96,
+            "text": " After that, we will check the same condition."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 453.96,
+            "end": 455.96,
+            "text": " This will not be executed."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 455.96,
+            "end": 456.96,
+            "text": " We will execute this statement."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 456.96,
+            "end": 459.96,
+            "text": " We will print our n here."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 459.96,
+            "end": 461.96,
+            "text": " So, 8 will be printed."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 461.96,
+            "end": 463.96,
+            "text": " Then, it will be called again for n minus 1."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 463.96,
+            "end": 465.96,
+            "text": " For n minus 1, it will be called as n."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 465.96,
+            "end": 468.96,
+            "text": " So, if the print is decreasing, then n is equal to 7."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 468.96,
+            "end": 470.96,
+            "text": " n is equal to 7."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 470.96,
+            "end": 473.96,
+            "text": " On the second condition, it will fall from 2nd condition."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 473.96,
+            "end": 475.96,
+            "text": " n is not the same."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 475.96,
+            "end": 477.96,
+            "text": " This statement will be executed."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 477.96,
+            "end": 479.96,
+            "text": " 7 will be printed."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 479.96,
+            "end": 481.96,
+            "text": " On the second condition, we will call again."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 481.96,
+            "end": 484.96,
+            "text": " The print will be called as n is equal to 6."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 484.96,
+            "end": 487.96,
+            "text": " For n is equal to 6, we will call again."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 487.96,
+            "end": 489.96,
+            "text": " 6 has been printed."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 489.96,
+            "end": 490.96,
+            "text": " 6 has been printed."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 490.96,
+            "end": 493.96,
+            "text": " On the second condition, we will call again n is equal to 5."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 493.96,
+            "end": 496.96,
+            "text": " We will not go to this condition."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 496.96,
+            "end": 497.96,
+            "text": " What we will do?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 497.96,
+            "end": 498.96,
+            "text": " We will print it."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 498.96,
+            "end": 499.96,
+            "text": " We will print it."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 499.96,
+            "end": 501.96,
+            "text": " 5 has been printed."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 501.96,
+            "end": 503.96,
+            "text": " So, we are going to the level 1."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 503.96,
+            "end": 504.96,
+            "text": " We have called it."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 504.96,
+            "end": 506.96,
+            "text": " What we will do?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 506.96,
+            "end": 508.96,
+            "text": " We will call again."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 508.96,
+            "end": 512.96,
+            "text": " We will print the number 4 for n is equal to 4."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 512.96,
+            "end": 514.96,
+            "text": " We will print the number 4."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 514.96,
+            "end": 517.96,
+            "text": " We will call again the number of n is equal to 3."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 517.96,
+            "end": 520.96,
+            "text": " We will print the number 3 here."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 520.96,
+            "end": 523.96,
+            "text": " We will call again for n is equal to 2."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 523.96,
+            "end": 525.96,
+            "text": " We will print the number 2 here."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 525.96,
+            "end": 527.96,
+            "text": " 2 is equal to 2."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 527.96,
+            "end": 528.96,
+            "text": " And what will we do?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 528.96,
+            "end": 530.96,
+            "text": " 2 will be called for 1."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 530.96,
+            "end": 534.96,
+            "text": " So, as soon as the print is decreasing, n is equal to 1."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 534.96,
+            "end": 536.96,
+            "text": " 1 is called as e.i."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 536.96,
+            "end": 537.96,
+            "text": " So, what will happen?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 537.96,
+            "end": 539.96,
+            "text": " We will check the statement first."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 539.96,
+            "end": 541.96,
+            "text": " What is n1's condition?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 541.96,
+            "end": 543.96,
+            "text": " Here n1's condition will be."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 543.96,
+            "end": 547.96,
+            "text": " As soon as n1's condition is in the state,"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 547.96,
+            "end": 549.96,
+            "text": " we have to print it."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 549.96,
+            "end": 552.96,
+            "text": " So, we have printed it."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 552.96,
+            "end": 554.96,
+            "text": " So, we have printed it here."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 554.96,
+            "end": 557.96,
+            "text": " Next statement is written."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 557.96,
+            "end": 559.96,
+            "text": " We will return this function."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 559.96,
+            "end": 561.96,
+            "text": " So, these two statements will not execute for us."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 561.96,
+            "end": 563.96,
+            "text": " So, we will never call n1."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 563.96,
+            "end": 566.96,
+            "text": " We will not return n1 directly."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 566.96,
+            "end": 569.96,
+            "text": " We will not return n1 directly."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 569.96,
+            "end": 572.96,
+            "text": " As we have returned, what will happen?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 572.96,
+            "end": 574.96,
+            "text": " We will return it from here."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 574.96,
+            "end": 576.96,
+            "text": " So, n is equal to 2."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 576.96,
+            "end": 578.96,
+            "text": " And what will happen with the upper calls?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 578.96,
+            "end": 580.96,
+            "text": " The upper calls will be called stacks."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 580.96,
+            "end": 582.96,
+            "text": " Then n is equal to 2."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 582.96,
+            "end": 587.96,
+            "text": " n is equal to 2 means, we have to return n is equal to 2 value."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 587.96,
+            "end": 589.96,
+            "text": " Then what will we do?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 589.96,
+            "end": 591.96,
+            "text": " We have to return it from here."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 591.96,
+            "end": 593.96,
+            "text": " So, n is equal to 3."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 593.96,
+            "end": 594.96,
+            "text": " And what happened?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 594.96,
+            "end": 596.96,
+            "text": " This value has been dropped for us."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 596.96,
+            "end": 598.96,
+            "text": " Then, we have returned it from here."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 598.96,
+            "end": 601.96,
+            "text": " So, the upper level has been given to us."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 601.96,
+            "end": 604.96,
+            "text": " Similarly, we will go down to 1 level."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 604.96,
+            "end": 606.96,
+            "text": " And what will happen with the upper levels?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 606.96,
+            "end": 611.96,
+            "text": " The upper levels will be called stacks from 1 to 2."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 611.96,
+            "end": 615.96,
+            "text": " Finally, we will go down to n is equal to 10."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 615.96,
+            "end": 620.96,
+            "text": " As we have come up to 10, we will return the main function here."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 620.96,
+            "end": 623.96,
+            "text": " This will also be called memory."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 623.96,
+            "end": 627.96,
+            "text": " And last, we have observed this function called in Chakkar."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 627.96,
+            "end": 631.96,
+            "text": " This print statement was from its help."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 631.96,
+            "end": 636.96,
+            "text": " First, 10 print was 9 print was 8, 7, 6, 5, 4, 3, 2 and 1."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 636.96,
+            "end": 638.96,
+            "text": " So, all the numbers have been printed."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 638.96,
+            "end": 641.96,
+            "text": " As we have executed the recursion."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 641.96,
+            "end": 643.96,
+            "text": " So, where did we go from?"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 643.96,
+            "end": 647.96,
+            "text": " First, we went up in the stack."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 647.96,
+            "end": 650.96,
+            "text": " We have passed the calls again and again."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 650.96,
+            "end": 652.96,
+            "text": " We have done the recursion again."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 652.96,
+            "end": 654.96,
+            "text": " Then we did down to the stack."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 654.96,
+            "end": 660.96,
+            "text": " So, we went towards the base case."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 660.96,
+            "end": 665.96,
+            "text": " And back to the base case, we had the biggest solution."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 665.96,
+            "end": 671.96,
+            "text": " The biggest solution was to print in the main function for n is equal to 10."
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 671.96,
+            "end": 675.96,
+            "text": " So, in this way, the calls in the internal memory,"
+        },
+        {
+            "number": " 2",
+            "title": "Print numbers in decreasing order",
+            "start": 675.96,
+            "end": 679.96,
+            "text": " we have to print the final n from the final end."
+        }
+    ],
+    "text": " Now let's try solving a question. Problem 1, which we have to solve. This is the print numbers from n to 1. Meaning we have to print in a decreasing order. Suppose we have n value. So we have to print the numbers from 10, 9, 8, 7, 6, 5, 4, 3, 2 and 1. Now we have to print these numbers. So first of all, the approach that we are going to get in our brain is the easiest approach. We will apply a for loop. Int i is equal to 10 to start with this. Till the time i is equal to greater than or equal to 1, i minus minus and every time we will print our i. So we will work on a for loop. But we will do the question of the number of numbers we want to solve with recursion. Now if my work is to print the values from 10 to 10. To print the values, I have to make a function f of n. The function of f of n is to print the values from n to 1. Now to implement f of n, it is easy to implement f of n minus 1. If f of n minus 1 is not, what did we do? We have to print the values from 9 to 1. So what to do? We have to print only 10. So what will I do? I will print the n and call it f of n minus 1. What is easy for f of n minus 1? It is easy for f of n minus 1. I will print the values from 8 to 1 and print only 9. Here the n is that is 10. This n minus 1 is 9. And here the n value is 10. So what will f of 9 do? It will print the 9 and call it f of 8. That the value of 8 will print the function from the inside and I believe that it will do it. What to do after that? I have to print only 9. And what will f of 8 do? It will print only 8 and I believe that the function from inside will print all the values from 7 to 1. So in this way, every function will call its inner function that n minus 1 to 1 will print all the values. So we have a function, how function is it? It is a function that is in the parameter of an integer value n. And what does this function do? First of all, it will print n. That is, the value of the n minus 1 to call the same thing. That n minus 1 to 1 will work only for inner level. Now there is one thing missing about this function. That is its base case. What is the base case? The base case will be like we have to reach 1 to 1. We have to stop. We have to call it for zero. Because we have to print 1 to 1. So we know the solution of 1 to 1. We will print the base case from there simply from there and then we will return. If we want to write a function, we will see the function like this. We have made the basic basic case of the recursion. In this, the main function is here. We have to define our n here. 10. After that, we will write our first recursive function. How? Public static, white. Why? Why? This function will not be given to the name print decreasing. We will pass the decreasing, our parameter n. Now what we did in recursion? There was a first step in recursion that we will define what will our function do. What will this function do? Will this function print the value of n? Let's create the value of n. Let's give a little space after that. After that, the function of the other function is to call our inner function to call n minus 1. Because we believe that all the functions of inner function will give us all the work. So here we will call the print decreasing for n minus 1. Now what we do with this function is to define a base case. So if n equals 1, just like we have reached the goal. What we do there? We will print there, n equals 1 and will return from here. This whole whole recursion function will print the values that are tensed and will be printed until 10. If we call it the main function, we analyze the output output. So what we will do is to print the values from 10, 9, 8, 7, 6, 5, 4, 3, 2, 1. How we print the values by the help of recursion? Now the values are print for us. Now let's analyze how we do recursion when we will do the work in memory. We have to understand that we call the stack. If the Java function is called as the call stack, then the stack becomes the data structure of the stack. If you keep the books on one page or on the other page, then it becomes stack in English. Whenever you keep the stack on one page, then the calls, method, calls, functions, calls, then it becomes a stack inside memory. If you have a main function, then you have to call the function as the function of your Fun1 name. So what will be the stack that will be the main function, and the function of the main function will be the Fun1. Now, the parameters in the main function will be x, y, z, a, b, c. All the main functions will be stored in Fun1. If number 1, number 2 will be the parameters, then all the main functions will be stored here. So, the memory inside the stack is actually stored in the form of a stack. Now, whenever we recursion, we have to do this function in our decreasing function. What happened in the recursion? First of all, the main function has called this function. So, in the beginning, the main function has been stored. We defined the main function as n is equal to 10. So, a layer will be the main function. Now, the main function has called as the print decreasing function. So, here the print is decreasing. What are the parameters in the print decreasing? Only parameter n. So, this n value of 10 has been added here. How to call? Call is placed on the bottom of our bottom. After that, what the print decreasing function has done? Let us assume that we have reached the function. We checked the first thing we saw before that, is the value of n value 1 equal to n value? n value is also equal to n value 1. So, we will not go into this condition. We will go to this condition. When we go to this statement, we have to print our n. So, we will print our n. What is the value of n? 10. We have print our 10. After that, we will go to our next line. What is the next line? Call is placed on the same call for n minus 1. So, what happened? Call stack will be placed in a call. For the same function. That is, for the print decreasing function, we have called this call. But this time, we have passed n, that n minus 1 is not here. So, we have placed the same function on the top. Now, when we come here for n equal to 9, then we will check again, whether n value 1 is here or not. If n value is 9, then this will not be executed. We will come here to print our n value here. So, we will print our n value. Our 9 will be printed for 9. Next line will be called as n minus 1. Here, what is n here? Here, it is 9. So, for 9 minus 1, we will call. For 9 minus 1, we will call as n minus 1. So, the print will be decreasing in the call stack. One more layer will be made, which n is equal to 8. 8 is like this. After that, we will check the same condition. This will not be executed. We will execute this statement. We will print our n here. So, 8 will be printed. Then, it will be called again for n minus 1. For n minus 1, it will be called as n. So, if the print is decreasing, then n is equal to 7. n is equal to 7. On the second condition, it will fall from 2nd condition. n is not the same. This statement will be executed. 7 will be printed. On the second condition, we will call again. The print will be called as n is equal to 6. For n is equal to 6, we will call again. 6 has been printed. 6 has been printed. On the second condition, we will call again n is equal to 5. We will not go to this condition. What we will do? We will print it. We will print it. 5 has been printed. So, we are going to the level 1. We have called it. What we will do? We will call again. We will print the number 4 for n is equal to 4. We will print the number 4. We will call again the number of n is equal to 3. We will print the number 3 here. We will call again for n is equal to 2. We will print the number 2 here. 2 is equal to 2. And what will we do? 2 will be called for 1. So, as soon as the print is decreasing, n is equal to 1. 1 is called as e.i. So, what will happen? We will check the statement first. What is n1's condition? Here n1's condition will be. As soon as n1's condition is in the state, we have to print it. So, we have printed it. So, we have printed it here. Next statement is written. We will return this function. So, these two statements will not execute for us. So, we will never call n1. We will not return n1 directly. We will not return n1 directly. As we have returned, what will happen? We will return it from here. So, n is equal to 2. And what will happen with the upper calls? The upper calls will be called stacks. Then n is equal to 2. n is equal to 2 means, we have to return n is equal to 2 value. Then what will we do? We have to return it from here. So, n is equal to 3. And what happened? This value has been dropped for us. Then, we have returned it from here. So, the upper level has been given to us. Similarly, we will go down to 1 level. And what will happen with the upper levels? The upper levels will be called stacks from 1 to 2. Finally, we will go down to n is equal to 10. As we have come up to 10, we will return the main function here. This will also be called memory. And last, we have observed this function called in Chakkar. This print statement was from its help. First, 10 print was 9 print was 8, 7, 6, 5, 4, 3, 2 and 1. So, all the numbers have been printed. As we have executed the recursion. So, where did we go from? First, we went up in the stack. We have passed the calls again and again. We have done the recursion again. Then we did down to the stack. So, we went towards the base case. And back to the base case, we had the biggest solution. The biggest solution was to print in the main function for n is equal to 10. So, in this way, the calls in the internal memory, we have to print the final n from the final end."
+}

@@ -1,0 +1,1307 @@
+{
+    "chunks": [
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 0.0,
+            "end": 4.0,
+            "text": " Next question is called print factorial of a number n."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 4.0,
+            "end": 7.0,
+            "text": " So, for me, we discussed a little bit about factorial."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 7.0,
+            "end": 8.0,
+            "text": " How is it calculated?"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 8.0,
+            "end": 13.0,
+            "text": " Let me tell you again, n factorial value is n multiplied by n minus 1 factorial."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 13.0,
+            "end": 21.0,
+            "text": " So, here we can derive a recursive function that f of n is equal to n multiplied by f of n minus 1."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 21.0,
+            "end": 27.0,
+            "text": " Then, recursively, it goes down to n minus 1 multiplied by f of n minus 2 and so on."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 27.0,
+            "end": 29.0,
+            "text": " So, in this way, we have a recursive function."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 29.0,
+            "end": 32.0,
+            "text": " Now, we can actually convert it into a code."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 32.0,
+            "end": 33.0,
+            "text": " What can we do for that?"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 33.0,
+            "end": 36.0,
+            "text": " We have made a function called factorial."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 36.0,
+            "end": 42.0,
+            "text": " We know that we have a parameter that is going to be called n, which is called factorial print."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 42.0,
+            "end": 44.0,
+            "text": " So, this is a very obvious parameter."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 44.0,
+            "end": 46.0,
+            "text": " Now, what should be our first step?"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 46.0,
+            "end": 48.0,
+            "text": " What should be our first step?"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 48.0,
+            "end": 50.0,
+            "text": " We should calculate this f of n minus 1."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 50.0,
+            "end": 54.0,
+            "text": " As if f of n minus 1 is calculated, this f of n will be calculated."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 54.0,
+            "end": 56.0,
+            "text": " So, how will we calculate this?"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 56.0,
+            "end": 58.0,
+            "text": " We have to do all these steps."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 58.0,
+            "end": 64.0,
+            "text": " In recursive, we can assume that f of n minus 1 will be calculated in some way for us."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 64.0,
+            "end": 65.0,
+            "text": " This is the complete trust."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 65.0,
+            "end": 66.0,
+            "text": " So, what will we do for that?"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 66.0,
+            "end": 70.0,
+            "text": " We will make a variable of f of n minus 1."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 70.0,
+            "end": 74.0,
+            "text": " Where factorial of n minus 1 will be calculated, where will it be calculated?"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 74.0,
+            "end": 75.0,
+            "text": " The same function will be calculated."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 75.0,
+            "end": 78.0,
+            "text": " Fact of n minus 1 is called."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 78.0,
+            "end": 80.0,
+            "text": " Now, what is our second step?"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 80.0,
+            "end": 82.0,
+            "text": " The second step is to multiply the solution for n minus 1."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 82.0,
+            "end": 87.0,
+            "text": " Now, we have to make our solution by multiplying the solution by n."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 87.0,
+            "end": 90.0,
+            "text": " So, factorial of n will be for us."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 90.0,
+            "end": 93.0,
+            "text": " n multiplied by factorial of n minus 1."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 93.0,
+            "end": 96.0,
+            "text": " This is also a very clear statement."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 96.0,
+            "end": 98.0,
+            "text": " What do we have to do in the third step?"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 98.0,
+            "end": 100.0,
+            "text": " We have to assume factorial of n minus 1."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 100.0,
+            "end": 103.0,
+            "text": " We have calculated and calculated and calculated."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 103.0,
+            "end": 105.0,
+            "text": " Now, we have to define a base case."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 105.0,
+            "end": 108.0,
+            "text": " That value, which we know first,"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 108.0,
+            "end": 110.0,
+            "text": " we know everything, what is the factorial?"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 110.0,
+            "end": 112.0,
+            "text": " Let us keep it in mind."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 112.0,
+            "end": 114.0,
+            "text": " 0 factorial is equal to 1."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 114.0,
+            "end": 118.0,
+            "text": " We should know that we have to calculate the number of factorial."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 118.0,
+            "end": 120.0,
+            "text": " So, here we can put a base case."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 120.0,
+            "end": 124.0,
+            "text": " It can be a base case that if n equals 0,"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 124.0,
+            "end": 126.0,
+            "text": " then what will we do in that case?"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 126.0,
+            "end": 129.0,
+            "text": " We will return 1 in that case."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 129.0,
+            "end": 132.0,
+            "text": " Because factorial of 0 is equal to 1."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 132.0,
+            "end": 136.0,
+            "text": " And finally, we will return from here, factorial of n."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 136.0,
+            "end": 140.0,
+            "text": " So, the function of this return type, we can keep it in the integer."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 140.0,
+            "end": 143.0,
+            "text": " Because we will return the value of the integer value."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 143.0,
+            "end": 146.0,
+            "text": " This will have a parameter of n."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 146.0,
+            "end": 150.0,
+            "text": " First, we will calculate the first step of n minus 1."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 150.0,
+            "end": 152.0,
+            "text": " Then we will calculate the factorial."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 152.0,
+            "end": 154.0,
+            "text": " We will do the return of n."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 154.0,
+            "end": 156.0,
+            "text": " The base case will be n equal to 0."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 156.0,
+            "end": 158.0,
+            "text": " We convert the function in the code."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 158.0,
+            "end": 163.0,
+            "text": " For the code, we will write public static int factorial."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 163.0,
+            "end": 166.0,
+            "text": " We will pass the integer in the factorial."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 166.0,
+            "end": 169.0,
+            "text": " First of all, we have to calculate the first step of n minus 1."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 169.0,
+            "end": 173.0,
+            "text": " So, int f of n minus 1."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 173.0,
+            "end": 177.0,
+            "text": " I have tried to write n minus 1 in this way."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 177.0,
+            "end": 179.0,
+            "text": " We will assume factorial of n minus 1."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 179.0,
+            "end": 182.0,
+            "text": " We will calculate the solution of all the factorial."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 182.0,
+            "end": 185.0,
+            "text": " We will take out the value of factorial of n."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 185.0,
+            "end": 189.0,
+            "text": " Which is going to be n multiplied by factorial of n minus 1."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 189.0,
+            "end": 193.0,
+            "text": " And we will do this from our function to return."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 193.0,
+            "end": 195.0,
+            "text": " And what will be the base case?"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 195.0,
+            "end": 198.0,
+            "text": " If n value is 0, then we will return from here."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 198.0,
+            "end": 200.0,
+            "text": " So, we will return from here."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 200.0,
+            "end": 202.0,
+            "text": " Because the 0 is factorial 1."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 202.0,
+            "end": 204.0,
+            "text": " We can handle this case as well."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 204.0,
+            "end": 210.0,
+            "text": " If we pass n value from 0 to less, then we have to do the return of n."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 210.0,
+            "end": 212.0,
+            "text": " We will not do anything in that case."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 212.0,
+            "end": 214.0,
+            "text": " Or we will do minus 1."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 214.0,
+            "end": 216.0,
+            "text": " We will print a wrong number."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 216.0,
+            "end": 218.0,
+            "text": " Because the negative numbers do not exist for factorial."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 218.0,
+            "end": 220.0,
+            "text": " But we are not handling the situation."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 220.0,
+            "end": 226.0,
+            "text": " The visible cases in which we know that these are the cases."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 226.0,
+            "end": 228.0,
+            "text": " They are handling the situation."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 228.0,
+            "end": 230.0,
+            "text": " So, n is equal to 0 to base case."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 230.0,
+            "end": 232.0,
+            "text": " And can you see the magic?"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 232.0,
+            "end": 237.0,
+            "text": " The magic is that the factorial of n minus 1 is only assumption that it will be calculated."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 237.0,
+            "end": 239.0,
+            "text": " And n is equal to 0."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 239.0,
+            "end": 241.0,
+            "text": " We have put a condition of base case."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 241.0,
+            "end": 248.0,
+            "text": " And the recursion is so smoothly, so much that it will work in such a way that every n minus 1 will be calculated."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 248.0,
+            "end": 252.0,
+            "text": " We will put the main function in the call of factorial in this."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 252.0,
+            "end": 255.0,
+            "text": " For which we will pass n is equal to 5."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 256.0,
+            "end": 262.0,
+            "text": " Now we will print the factorial of n is equal to 5."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 262.0,
+            "end": 265.0,
+            "text": " It is printed 120."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 265.0,
+            "end": 269.0,
+            "text": " Now we will analyze the same question."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 269.0,
+            "end": 271.0,
+            "text": " Let us understand how the question actually solved."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 271.0,
+            "end": 275.0,
+            "text": " For stack analysis, the first thing that happened is called mean."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 275.0,
+            "end": 279.0,
+            "text": " The call in mean is equal to 5 pass."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 279.0,
+            "end": 285.0,
+            "text": " So, the call frame came to us for our factorial function."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 285.0,
+            "end": 288.0,
+            "text": " The first n is equal to 5."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 288.0,
+            "end": 290.0,
+            "text": " What was the function of factorial?"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 290.0,
+            "end": 292.0,
+            "text": " First calculate n minus 1."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 292.0,
+            "end": 297.0,
+            "text": " Then calculate fn as fn minus 1 multiplied by n."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 297.0,
+            "end": 300.0,
+            "text": " Then we will return fn."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 300.0,
+            "end": 304.0,
+            "text": " And here we have base case that for n is equal to 0."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 304.0,
+            "end": 305.0,
+            "text": " What do we have to do?"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 305.0,
+            "end": 307.0,
+            "text": " Return 1."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 307.0,
+            "end": 309.0,
+            "text": " This is the function we have written."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 309.0,
+            "end": 312.0,
+            "text": " For factorial n is equal to 5, call like this."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 312.0,
+            "end": 314.0,
+            "text": " First of all, we will check this condition."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 314.0,
+            "end": 316.0,
+            "text": " This is the false."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 316.0,
+            "end": 318.0,
+            "text": " Then we will call fn minus 1."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 318.0,
+            "end": 322.0,
+            "text": " For example, call will be another level in our call stack."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 322.0,
+            "end": 326.0,
+            "text": " This time, we want to remove factorial n is equal to 4."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 326.0,
+            "end": 329.0,
+            "text": " For n is equal to 4, call will be another condition."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 329.0,
+            "end": 334.0,
+            "text": " For n minus 1, call will be another level in n minus 1."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 335.0,
+            "end": 338.0,
+            "text": " Now we know that recursively, n minus 3 is called."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 338.0,
+            "end": 341.0,
+            "text": " Then again we will call factorial n minus 2."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 341.0,
+            "end": 343.0,
+            "text": " n minus 2 will come."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 343.0,
+            "end": 344.0,
+            "text": " So, it will not be equal to 0."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 344.0,
+            "end": 349.0,
+            "text": " Then again we will call factorial of n is equal to 1."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 349.0,
+            "end": 351.0,
+            "text": " n is equal to 1."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 351.0,
+            "end": 355.0,
+            "text": " Then again we will call factorial n is equal to 0."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 355.0,
+            "end": 358.0,
+            "text": " Now, as n is equal to 0, we will call factorial."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 358.0,
+            "end": 360.0,
+            "text": " Our first condition will be true."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 360.0,
+            "end": 365.0,
+            "text": " As we return the 1 from here, we have done the 1."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 365.0,
+            "end": 368.0,
+            "text": " So, what is the return of this function?"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 368.0,
+            "end": 370.0,
+            "text": " What is the return of this function?"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 370.0,
+            "end": 371.0,
+            "text": " 1 as an argument."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 371.0,
+            "end": 375.0,
+            "text": " So, the value of fn minus 1 is stored in the value of 1."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 375.0,
+            "end": 379.0,
+            "text": " So, for this, when n multiplied by fn minus 1 is calculated,"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 379.0,
+            "end": 380.0,
+            "text": " then how it happened?"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 380.0,
+            "end": 384.0,
+            "text": " We will multiply the 1 with 1."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 384.0,
+            "end": 386.0,
+            "text": " Because this is the n."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 386.0,
+            "end": 389.0,
+            "text": " So, we will also return the 1."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 389.0,
+            "end": 391.0,
+            "text": " And as we return the 1."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 391.0,
+            "end": 393.0,
+            "text": " And as we return the 2."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 393.0,
+            "end": 395.0,
+            "text": " This is the value of m."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 395.0,
+            "end": 397.0,
+            "text": " Now, the lower value is the level."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 397.0,
+            "end": 399.0,
+            "text": " That is, n is equal to 2."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 399.0,
+            "end": 400.0,
+            "text": " What will we do?"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 400.0,
+            "end": 403.0,
+            "text": " We will multiply the 1 with n."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 403.0,
+            "end": 405.0,
+            "text": " That is, 2."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 405.0,
+            "end": 409.0,
+            "text": " We will return the 1 and 2."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 409.0,
+            "end": 411.0,
+            "text": " As we return the 2."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 411.0,
+            "end": 413.0,
+            "text": " We will get the value of m."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 413.0,
+            "end": 415.0,
+            "text": " Now, what we have to do is,"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 415.0,
+            "end": 419.0,
+            "text": " we have to calculate this 2 multiplied by 3."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 419.0,
+            "end": 422.0,
+            "text": " We have taken this 2 here and this 3 we have put in m value."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 422.0,
+            "end": 424.0,
+            "text": " So, what will we do?"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 424.0,
+            "end": 426.0,
+            "text": " We will do this 6 value return."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 426.0,
+            "end": 428.0,
+            "text": " As we will return the 2."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 428.0,
+            "end": 430.0,
+            "text": " We have been guided by the same memory."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 430.0,
+            "end": 432.0,
+            "text": " Then what to do at 4?"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 432.0,
+            "end": 434.0,
+            "text": " We have to multiply the 6 with 4."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 434.0,
+            "end": 436.0,
+            "text": " And what to do at this time?"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 436.0,
+            "end": 438.0,
+            "text": " We have to turn it to 24."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 438.0,
+            "end": 441.0,
+            "text": " As we will return the 24, this will be guided by the same memory."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 441.0,
+            "end": 443.0,
+            "text": " What to do at 5?"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 443.0,
+            "end": 446.0,
+            "text": " We have to multiply the 24 with 5."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 446.0,
+            "end": 448.0,
+            "text": " And what to do at this time?"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 448.0,
+            "end": 453.0,
+            "text": " We will return the main function to 120 and we will get guided by the same memory."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 453.0,
+            "end": 456.0,
+            "text": " So, what is the main function?"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 456.0,
+            "end": 462.0,
+            "text": " The main function is that we have to print the output screen on the terminal."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 462.0,
+            "end": 465.0,
+            "text": " We have to print the system.out.println."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 465.0,
+            "end": 468.0,
+            "text": " I hope that this call stacks are clear."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 468.0,
+            "end": 473.0,
+            "text": " Every level has turned the solution to a slightly higher level."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 473.0,
+            "end": 478.0,
+            "text": " The first one is 0 factorial, then 1 factorial, then 2 factorial, then 3 factorial, then 4 factorial."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 478.0,
+            "end": 481.0,
+            "text": " Finally, the final one is 5 factorial."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 481.0,
+            "end": 484.0,
+            "text": " Our main function has returned and in every function,"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 484.0,
+            "end": 488.0,
+            "text": " in every single call, there will be some calculation in this way."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 488.0,
+            "end": 491.0,
+            "text": " In the next level, we will calculate the factorial."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 491.0,
+            "end": 494.0,
+            "text": " Now, the time complexity of this question is,"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 494.0,
+            "end": 497.0,
+            "text": " we have started to write the time complexity as n."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 497.0,
+            "end": 499.0,
+            "text": " Because we have called n."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 499.0,
+            "end": 504.0,
+            "text": " Every level, we have called n, we have reversed n to the point of n plus 1."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 504.0,
+            "end": 508.0,
+            "text": " For asymptotic annotations, n will be our time complexity."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 508.0,
+            "end": 511.0,
+            "text": " And if we talk about space complexity,"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 511.0,
+            "end": 515.0,
+            "text": " we can say that space complexity is not used in any way."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 515.0,
+            "end": 517.0,
+            "text": " We have made an area without it."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 517.0,
+            "end": 520.0,
+            "text": " In this case, we have to consider the time complexity."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 520.0,
+            "end": 523.0,
+            "text": " We have to consider the time complexity as well."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 523.0,
+            "end": 528.0,
+            "text": " When we had all the levels in our stack,"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 528.0,
+            "end": 533.0,
+            "text": " at that time, we were making a single level variable."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 533.0,
+            "end": 535.0,
+            "text": " So, how many variables were we making?"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 535.0,
+            "end": 536.0,
+            "text": " n variables."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 536.0,
+            "end": 540.0,
+            "text": " So, the number of calls stacks in memory is also very small."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 540.0,
+            "end": 543.0,
+            "text": " That is why, the whole program, which is the memory,"
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 543.0,
+            "end": 545.0,
+            "text": " the space complexity, will be big of n."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 545.0,
+            "end": 548.0,
+            "text": " Because in worst case, we are creating n variables."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 548.0,
+            "end": 551.0,
+            "text": " Every level will be different on one's own."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 551.0,
+            "end": 553.0,
+            "text": " That will be a copy of n."
+        },
+        {
+            "number": " 5",
+            "title": " Find Factorial of N video",
+            "start": 553.0,
+            "end": 557.0,
+            "text": " That is why, the space complexity and time complexity will be big of n."
+        }
+    ],
+    "text": " Next question is called print factorial of a number n. So, for me, we discussed a little bit about factorial. How is it calculated? Let me tell you again, n factorial value is n multiplied by n minus 1 factorial. So, here we can derive a recursive function that f of n is equal to n multiplied by f of n minus 1. Then, recursively, it goes down to n minus 1 multiplied by f of n minus 2 and so on. So, in this way, we have a recursive function. Now, we can actually convert it into a code. What can we do for that? We have made a function called factorial. We know that we have a parameter that is going to be called n, which is called factorial print. So, this is a very obvious parameter. Now, what should be our first step? What should be our first step? We should calculate this f of n minus 1. As if f of n minus 1 is calculated, this f of n will be calculated. So, how will we calculate this? We have to do all these steps. In recursive, we can assume that f of n minus 1 will be calculated in some way for us. This is the complete trust. So, what will we do for that? We will make a variable of f of n minus 1. Where factorial of n minus 1 will be calculated, where will it be calculated? The same function will be calculated. Fact of n minus 1 is called. Now, what is our second step? The second step is to multiply the solution for n minus 1. Now, we have to make our solution by multiplying the solution by n. So, factorial of n will be for us. n multiplied by factorial of n minus 1. This is also a very clear statement. What do we have to do in the third step? We have to assume factorial of n minus 1. We have calculated and calculated and calculated. Now, we have to define a base case. That value, which we know first, we know everything, what is the factorial? Let us keep it in mind. 0 factorial is equal to 1. We should know that we have to calculate the number of factorial. So, here we can put a base case. It can be a base case that if n equals 0, then what will we do in that case? We will return 1 in that case. Because factorial of 0 is equal to 1. And finally, we will return from here, factorial of n. So, the function of this return type, we can keep it in the integer. Because we will return the value of the integer value. This will have a parameter of n. First, we will calculate the first step of n minus 1. Then we will calculate the factorial. We will do the return of n. The base case will be n equal to 0. We convert the function in the code. For the code, we will write public static int factorial. We will pass the integer in the factorial. First of all, we have to calculate the first step of n minus 1. So, int f of n minus 1. I have tried to write n minus 1 in this way. We will assume factorial of n minus 1. We will calculate the solution of all the factorial. We will take out the value of factorial of n. Which is going to be n multiplied by factorial of n minus 1. And we will do this from our function to return. And what will be the base case? If n value is 0, then we will return from here. So, we will return from here. Because the 0 is factorial 1. We can handle this case as well. If we pass n value from 0 to less, then we have to do the return of n. We will not do anything in that case. Or we will do minus 1. We will print a wrong number. Because the negative numbers do not exist for factorial. But we are not handling the situation. The visible cases in which we know that these are the cases. They are handling the situation. So, n is equal to 0 to base case. And can you see the magic? The magic is that the factorial of n minus 1 is only assumption that it will be calculated. And n is equal to 0. We have put a condition of base case. And the recursion is so smoothly, so much that it will work in such a way that every n minus 1 will be calculated. We will put the main function in the call of factorial in this. For which we will pass n is equal to 5. Now we will print the factorial of n is equal to 5. It is printed 120. Now we will analyze the same question. Let us understand how the question actually solved. For stack analysis, the first thing that happened is called mean. The call in mean is equal to 5 pass. So, the call frame came to us for our factorial function. The first n is equal to 5. What was the function of factorial? First calculate n minus 1. Then calculate fn as fn minus 1 multiplied by n. Then we will return fn. And here we have base case that for n is equal to 0. What do we have to do? Return 1. This is the function we have written. For factorial n is equal to 5, call like this. First of all, we will check this condition. This is the false. Then we will call fn minus 1. For example, call will be another level in our call stack. This time, we want to remove factorial n is equal to 4. For n is equal to 4, call will be another condition. For n minus 1, call will be another level in n minus 1. Now we know that recursively, n minus 3 is called. Then again we will call factorial n minus 2. n minus 2 will come. So, it will not be equal to 0. Then again we will call factorial of n is equal to 1. n is equal to 1. Then again we will call factorial n is equal to 0. Now, as n is equal to 0, we will call factorial. Our first condition will be true. As we return the 1 from here, we have done the 1. So, what is the return of this function? What is the return of this function? 1 as an argument. So, the value of fn minus 1 is stored in the value of 1. So, for this, when n multiplied by fn minus 1 is calculated, then how it happened? We will multiply the 1 with 1. Because this is the n. So, we will also return the 1. And as we return the 1. And as we return the 2. This is the value of m. Now, the lower value is the level. That is, n is equal to 2. What will we do? We will multiply the 1 with n. That is, 2. We will return the 1 and 2. As we return the 2. We will get the value of m. Now, what we have to do is, we have to calculate this 2 multiplied by 3. We have taken this 2 here and this 3 we have put in m value. So, what will we do? We will do this 6 value return. As we will return the 2. We have been guided by the same memory. Then what to do at 4? We have to multiply the 6 with 4. And what to do at this time? We have to turn it to 24. As we will return the 24, this will be guided by the same memory. What to do at 5? We have to multiply the 24 with 5. And what to do at this time? We will return the main function to 120 and we will get guided by the same memory. So, what is the main function? The main function is that we have to print the output screen on the terminal. We have to print the system.out.println. I hope that this call stacks are clear. Every level has turned the solution to a slightly higher level. The first one is 0 factorial, then 1 factorial, then 2 factorial, then 3 factorial, then 4 factorial. Finally, the final one is 5 factorial. Our main function has returned and in every function, in every single call, there will be some calculation in this way. In the next level, we will calculate the factorial. Now, the time complexity of this question is, we have started to write the time complexity as n. Because we have called n. Every level, we have called n, we have reversed n to the point of n plus 1. For asymptotic annotations, n will be our time complexity. And if we talk about space complexity, we can say that space complexity is not used in any way. We have made an area without it. In this case, we have to consider the time complexity. We have to consider the time complexity as well. When we had all the levels in our stack, at that time, we were making a single level variable. So, how many variables were we making? n variables. So, the number of calls stacks in memory is also very small. That is why, the whole program, which is the memory, the space complexity, will be big of n. Because in worst case, we are creating n variables. Every level will be different on one's own. That will be a copy of n. That is why, the space complexity and time complexity will be big of n."
+}

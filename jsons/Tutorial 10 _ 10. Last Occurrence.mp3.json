@@ -1,0 +1,859 @@
+{
+    "chunks": [
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 0.0,
+            "end": 2.86,
+            "text": " Next question is given to the previous question."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 2.86,
+            "end": 4.5600000000000005,
+            "text": " We have not given the first occurrence yet."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 4.5600000000000005,
+            "end": 6.36,
+            "text": " The last occurrence is given."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 6.36,
+            "end": 9.16,
+            "text": " What does the last occurrence mean to say an element?"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 9.16,
+            "end": 12.0,
+            "text": " Let us make our same array once again."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 14.8,
+            "end": 17.5,
+            "text": " We have to find out for key is equal to 5."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 17.5,
+            "end": 21.2,
+            "text": " The key in this array exists in two indexes."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 21.2,
+            "end": 23.0,
+            "text": " 1 is i is equal to 4,"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 23.0,
+            "end": 25.16,
+            "text": " 1 is i is equal to 7."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 25.16,
+            "end": 28.04,
+            "text": " We have to return this time last occurrence."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 28.04,
+            "end": 30.04,
+            "text": " This is the first occurrence."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 30.04,
+            "end": 32.04,
+            "text": " After this, we do not have any other occurrence."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 32.04,
+            "end": 34.04,
+            "text": " This is the last occurrence."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 34.04,
+            "end": 35.04,
+            "text": " So, we have to return 5."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 35.04,
+            "end": 38.04,
+            "text": " What we will do this time, we will turn the process upside down."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 38.04,
+            "end": 41.04,
+            "text": " What we have done to remove the first occurrence."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 41.04,
+            "end": 45.04,
+            "text": " First compare with yourself."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 45.04,
+            "end": 47.04,
+            "text": " Compare with self."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 47.04,
+            "end": 50.04,
+            "text": " Then we have come forward."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 50.04,
+            "end": 52.04,
+            "text": " Look forward."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 52.04,
+            "end": 54.04,
+            "text": " If I had done it,"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 54.04,
+            "end": 56.04,
+            "text": " If I had done it in index,"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 56.04,
+            "end": 58.04,
+            "text": " Then my first occurrence would have been the first."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 58.04,
+            "end": 61.04,
+            "text": " Then the index that I do not need to check is not necessary."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 61.04,
+            "end": 64.03999999999999,
+            "text": " That means, if I had to remove the first occurrence."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 64.03999999999999,
+            "end": 66.03999999999999,
+            "text": " Here I have found the key."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 66.03999999999999,
+            "end": 68.03999999999999,
+            "text": " Then why do I check the array?"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 68.03999999999999,
+            "end": 72.03999999999999,
+            "text": " Because next occurrence is the third, fourth occurrence will be available."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 72.03999999999999,
+            "end": 74.03999999999999,
+            "text": " I have to return the first occurrence."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 74.03999999999999,
+            "end": 76.03999999999999,
+            "text": " But this time we have to do the strategy."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 76.03999999999999,
+            "end": 78.03999999999999,
+            "text": " What to do with strategy?"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 78.03999999999999,
+            "end": 79.03999999999999,
+            "text": " First, we will see."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 79.03999999999999,
+            "end": 81.03999999999999,
+            "text": " First look forward."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 81.03999999999999,
+            "end": 83.03999999999999,
+            "text": " Then compare with self."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 84.04,
+            "end": 86.04,
+            "text": " This time we have to see."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 86.04,
+            "end": 91.04,
+            "text": " First I will look forward to some index."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 91.04,
+            "end": 93.04,
+            "text": " If I had found the first occurrence,"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 93.04,
+            "end": 96.04,
+            "text": " Then I will return the last occurrence."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 96.04,
+            "end": 98.04,
+            "text": " I will not meet the next one."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 98.04,
+            "end": 100.04,
+            "text": " Then I will see myself."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 100.04,
+            "end": 102.04,
+            "text": " But if I had found the first occurrence,"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 102.04,
+            "end": 104.04,
+            "text": " Then I will get the first occurrence."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 104.04,
+            "end": 106.04,
+            "text": " And I will return the last occurrence."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 106.04,
+            "end": 108.04,
+            "text": " I hope this is clear."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 108.04,
+            "end": 110.04,
+            "text": " That this time, we will not compare with 5."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 110.04,
+            "end": 113.04,
+            "text": " First I will compare with 5."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 113.04,
+            "end": 115.04,
+            "text": " If I have found this in 5,"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 115.04,
+            "end": 117.04,
+            "text": " I will get the first case."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 117.04,
+            "end": 120.04,
+            "text": " So I will return the first case."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 120.04,
+            "end": 123.04,
+            "text": " Then I will not compare with 4."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 123.04,
+            "end": 126.04,
+            "text": " But I hope there is no A."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 126.04,
+            "end": 128.04000000000002,
+            "text": " And no one will compare with 5."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 128.04000000000002,
+            "end": 130.04000000000002,
+            "text": " So what do I do?"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 130.04000000000002,
+            "end": 132.04000000000002,
+            "text": " If there was A,"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 132.04000000000002,
+            "end": 134.04000000000002,
+            "text": " Then I will not meet the first case."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 134.04000000000002,
+            "end": 137.04000000000002,
+            "text": " Then I will compare with myself."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 137.04,
+            "end": 140.04,
+            "text": " In case this was our first and this was our last occurrence."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 140.04,
+            "end": 143.04,
+            "text": " That is why we return the 4."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 143.04,
+            "end": 145.04,
+            "text": " But if there exists in 5,"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 145.04,
+            "end": 148.04,
+            "text": " Then I should have final answer of the 7."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 148.04,
+            "end": 150.04,
+            "text": " So first look forward,"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 150.04,
+            "end": 152.04,
+            "text": " Then compare with self."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 152.04,
+            "end": 154.04,
+            "text": " So we will write code."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 154.04,
+            "end": 157.04,
+            "text": " Similarly, we will write code similar to the other."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 157.04,
+            "end": 161.04,
+            "text": " In fact, we will copy this header."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 161.04,
+            "end": 164.04,
+            "text": " We have to return the integer index."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 164.04,
+            "end": 166.04,
+            "text": " The name of function is last occurrence."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 166.04,
+            "end": 172.04,
+            "text": " In this, we have our array, our key and index i."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 172.04,
+            "end": 174.04,
+            "text": " First of all, what do we do?"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 174.04,
+            "end": 175.04,
+            "text": " Look forward."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 175.04,
+            "end": 177.04,
+            "text": " We have to check with the next array."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 177.04,
+            "end": 180.04,
+            "text": " So int is found."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 180.04,
+            "end": 183.04,
+            "text": " We will call the last occurrence for array,"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 183.04,
+            "end": 186.04,
+            "text": " Key and i plus 1."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 186.04,
+            "end": 188.04,
+            "text": " So the last occurrence will tell me"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 188.04,
+            "end": 191.04,
+            "text": " Is it not going to exist in the next case?"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 191.04,
+            "end": 194.04,
+            "text": " If it exists, then there will be no valid index."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 194.04,
+            "end": 197.04,
+            "text": " If it exists, then it will be minus 1."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 197.04,
+            "end": 199.04,
+            "text": " Then we will check this found."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 199.04,
+            "end": 203.04,
+            "text": " If it is not equal to minus 1,"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 203.04,
+            "end": 205.04,
+            "text": " Means it is a valid index."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 205.04,
+            "end": 208.04,
+            "text": " So we will directly return this found."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 208.04,
+            "end": 211.04,
+            "text": " Means the index that we will get in the next case,"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 211.04,
+            "end": 213.04,
+            "text": " We will return it."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 213.04,
+            "end": 215.04,
+            "text": " But what we will do now?"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 215.04,
+            "end": 217.04,
+            "text": " Check with self."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 217.04,
+            "end": 219.04,
+            "text": " If this condition falls,"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 219.04,
+            "end": 222.04,
+            "text": " Means if it exists in this found,"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 222.04,
+            "end": 224.04,
+            "text": " Let's check with self."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 224.04,
+            "end": 228.04,
+            "text": " If the array of i is equal to equal to key,"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 228.04,
+            "end": 230.04,
+            "text": " We will return it in that case."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 230.04,
+            "end": 231.04,
+            "text": " Is value of i?"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 231.04,
+            "end": 233.04,
+            "text": " No, what will we return?"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 233.04,
+            "end": 235.04,
+            "text": " No, we will return it from here."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 235.04,
+            "end": 238.04,
+            "text": " We can also return this found."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 238.04,
+            "end": 241.04,
+            "text": " We can also return it from minus 1."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 241.04,
+            "end": 243.04,
+            "text": " And on top of that condition,"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 243.04,
+            "end": 247.04,
+            "text": " In base case, if the value of i is equal to an point,"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 247.04,
+            "end": 249.04,
+            "text": " It is equal to array length."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 249.04,
+            "end": 252.04,
+            "text": " We will return it to minus 1."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 252.04,
+            "end": 255.04,
+            "text": " We can clean this code more easily."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 255.04,
+            "end": 257.03999999999996,
+            "text": " Let's reverse this condition."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 257.03999999999996,
+            "end": 259.03999999999996,
+            "text": " How will we reverse this condition?"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 259.03999999999996,
+            "end": 262.03999999999996,
+            "text": " If this found is equal to minus 1."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 262.03999999999996,
+            "end": 267.03999999999996,
+            "text": " And our array of i is equal to key."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 267.03999999999996,
+            "end": 271.03999999999996,
+            "text": " In that case, we will return i."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 271.03999999999996,
+            "end": 276.03999999999996,
+            "text": " In other cases, we will return it from back to this value of this found."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 276.04,
+            "end": 280.04,
+            "text": " So we have concise this code in the main function."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 280.04,
+            "end": 282.04,
+            "text": " What will we do in the main function?"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 282.04,
+            "end": 286.04,
+            "text": " We will call the last occurrence for the same values."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 288.04,
+            "end": 291.04,
+            "text": " Return hooker i is equal to index i is equal to 7."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 291.04,
+            "end": 294.04,
+            "text": " If we change this array a little,"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 294.04,
+            "end": 296.04,
+            "text": " 5555."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 296.04,
+            "end": 298.04,
+            "text": " So what will we return?"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 298.04,
+            "end": 300.04,
+            "text": " This time we will return it."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 300.04,
+            "end": 302.04,
+            "text": " Last index which is equal to 3."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 302.04,
+            "end": 305.04,
+            "text": " Now the core of the last occurrence is,"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 305.04,
+            "end": 308.04,
+            "text": " For this stack analysis, you have to do it by yourself."
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 308.04,
+            "end": 311.04,
+            "text": " What will happen in the core of the stack?"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 311.04,
+            "end": 313.04,
+            "text": " What will happen in the function call?"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 313.04,
+            "end": 315.04,
+            "text": " What will happen in the return?"
+        },
+        {
+            "number": " 10",
+            "title": " Last Occurrence",
+            "start": 315.04,
+            "end": 318.04,
+            "text": " We will take the home-work problem in this way."
+        }
+    ],
+    "text": " Next question is given to the previous question. We have not given the first occurrence yet. The last occurrence is given. What does the last occurrence mean to say an element? Let us make our same array once again. We have to find out for key is equal to 5. The key in this array exists in two indexes. 1 is i is equal to 4, 1 is i is equal to 7. We have to return this time last occurrence. This is the first occurrence. After this, we do not have any other occurrence. This is the last occurrence. So, we have to return 5. What we will do this time, we will turn the process upside down. What we have done to remove the first occurrence. First compare with yourself. Compare with self. Then we have come forward. Look forward. If I had done it, If I had done it in index, Then my first occurrence would have been the first. Then the index that I do not need to check is not necessary. That means, if I had to remove the first occurrence. Here I have found the key. Then why do I check the array? Because next occurrence is the third, fourth occurrence will be available. I have to return the first occurrence. But this time we have to do the strategy. What to do with strategy? First, we will see. First look forward. Then compare with self. This time we have to see. First I will look forward to some index. If I had found the first occurrence, Then I will return the last occurrence. I will not meet the next one. Then I will see myself. But if I had found the first occurrence, Then I will get the first occurrence. And I will return the last occurrence. I hope this is clear. That this time, we will not compare with 5. First I will compare with 5. If I have found this in 5, I will get the first case. So I will return the first case. Then I will not compare with 4. But I hope there is no A. And no one will compare with 5. So what do I do? If there was A, Then I will not meet the first case. Then I will compare with myself. In case this was our first and this was our last occurrence. That is why we return the 4. But if there exists in 5, Then I should have final answer of the 7. So first look forward, Then compare with self. So we will write code. Similarly, we will write code similar to the other. In fact, we will copy this header. We have to return the integer index. The name of function is last occurrence. In this, we have our array, our key and index i. First of all, what do we do? Look forward. We have to check with the next array. So int is found. We will call the last occurrence for array, Key and i plus 1. So the last occurrence will tell me Is it not going to exist in the next case? If it exists, then there will be no valid index. If it exists, then it will be minus 1. Then we will check this found. If it is not equal to minus 1, Means it is a valid index. So we will directly return this found. Means the index that we will get in the next case, We will return it. But what we will do now? Check with self. If this condition falls, Means if it exists in this found, Let's check with self. If the array of i is equal to equal to key, We will return it in that case. Is value of i? No, what will we return? No, we will return it from here. We can also return this found. We can also return it from minus 1. And on top of that condition, In base case, if the value of i is equal to an point, It is equal to array length. We will return it to minus 1. We can clean this code more easily. Let's reverse this condition. How will we reverse this condition? If this found is equal to minus 1. And our array of i is equal to key. In that case, we will return i. In other cases, we will return it from back to this value of this found. So we have concise this code in the main function. What will we do in the main function? We will call the last occurrence for the same values. Return hooker i is equal to index i is equal to 7. If we change this array a little, 5555. So what will we return? This time we will return it. Last index which is equal to 3. Now the core of the last occurrence is, For this stack analysis, you have to do it by yourself. What will happen in the core of the stack? What will happen in the function call? What will happen in the return? We will take the home-work problem in this way."
+}

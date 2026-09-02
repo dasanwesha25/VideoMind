@@ -1,0 +1,1216 @@
+{
+    "chunks": [
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 0.0,
+            "end": 5.5,
+            "text": " Next question is, which we will talk about, is the right function to find the first occurrence of an element in an array."
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 6.5,
+            "end": 20.5,
+            "text": " In question, we will give an array, let's suppose we have an array given, which is the elements in which we have 8, 3, 6, 9, 5, 10, 2, 5 and 3."
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 21.0,
+            "end": 25.0,
+            "text": " Now we have to find out which one we want to find, which is our 5."
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 25.0,
+            "end": 34.0,
+            "text": " Now we have to return the index on the first index, which is the first time we have to check the index in this array."
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 35.0,
+            "end": 37.0,
+            "text": " So, index is equal to 4."
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 38.0,
+            "end": 42.0,
+            "text": " And where is the second time we have to check the index is equal to 7."
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 43.0,
+            "end": 47.0,
+            "text": " So, we have to return 7, we have to return index is equal to 4."
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 48.0,
+            "end": 49.0,
+            "text": " So, we will write a recursive function."
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 49.0,
+            "end": 57.0,
+            "text": " So, we will write a recursive function in this way, we will start with index 0, first we will check on 0,"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 58.0,
+            "end": 63.0,
+            "text": " if we do not exist on 0, then we will search the next array."
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 64.0,
+            "end": 69.0,
+            "text": " If we do exist on 0, then we will return from there 0, because it is the lowest index where we can exist."
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 70.0,
+            "end": 72.0,
+            "text": " Then we will write a I plus 1 for I plus 1."
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 73.0,
+            "end": 77.0,
+            "text": " So, we will understand the diagram, so where we will write the first call, we will check first."
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 80.0,
+            "end": 81.0,
+            "text": " I is equal to 0."
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 82.0,
+            "end": 85.0,
+            "text": " If we do exist here or not, then we will write a call for each other."
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 86.0,
+            "end": 88.0,
+            "text": " I plus 1 for call, I is equal to 1."
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 89.0,
+            "end": 93.0,
+            "text": " If we do not do exist here, then we will write a call for the level."
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 94.0,
+            "end": 96.0,
+            "text": " I is equal to 2."
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 97.0,
+            "end": 100.0,
+            "text": " We will write a call for the level. I is equal to 3."
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 101.0,
+            "end": 102.0,
+            "text": " Now, I is equal to 4, for call, we will do exist."
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 102.0,
+            "end": 109.0,
+            "text": " and what we will do is return to our index"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 109.0,
+            "end": 111.0,
+            "text": " what we will return to i is equal to 4"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 111.0,
+            "end": 113.0,
+            "text": " so we will return to 4"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 113.0,
+            "end": 116.0,
+            "text": " and this will return to 4"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 116.0,
+            "end": 118.0,
+            "text": " and this will return to 4"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 118.0,
+            "end": 122.0,
+            "text": " if we don't do 5 in this area"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 122.0,
+            "end": 124.0,
+            "text": " we don't do 5 in our area"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 124.0,
+            "end": 127.0,
+            "text": " we will take 5 here"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 127.0,
+            "end": 129.0,
+            "text": " and this is 5 here"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 129.0,
+            "end": 131.0,
+            "text": " so what we have to do is"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 131.0,
+            "end": 133.0,
+            "text": " check the base case"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 133.0,
+            "end": 136.0,
+            "text": " if we come here"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 136.0,
+            "end": 138.0,
+            "text": " where our i value is 9"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 138.0,
+            "end": 140.0,
+            "text": " which is equal to n minus 1"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 140.0,
+            "end": 142.0,
+            "text": " n value is 10"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 142.0,
+            "end": 144.0,
+            "text": " so if we don't get any key here"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 144.0,
+            "end": 146.0,
+            "text": " then we have to return to minus 1"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 146.0,
+            "end": 147.0,
+            "text": " why do we return to minus 1?"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 147.0,
+            "end": 149.0,
+            "text": " because we will show the minus 1"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 149.0,
+            "end": 151.0,
+            "text": " that we are not found"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 151.0,
+            "end": 153.0,
+            "text": " because minus 1 is not valid index"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 153.0,
+            "end": 155.0,
+            "text": " and this valid index"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 155.0,
+            "end": 157.0,
+            "text": " that is minus 1 when we return to value"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 157.0,
+            "end": 159.0,
+            "text": " we will do a different way"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 159.0,
+            "end": 161.0,
+            "text": " that we don't even exist in the area"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 161.0,
+            "end": 163.0,
+            "text": " so how do we write the function?"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 163.0,
+            "end": 165.0,
+            "text": " we have to find the function"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 165.0,
+            "end": 167.0,
+            "text": " first occurrence"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 167.0,
+            "end": 170.0,
+            "text": " we will have our area"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 170.0,
+            "end": 172.0,
+            "text": " and i value"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 172.0,
+            "end": 174.0,
+            "text": " first we will check"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 174.0,
+            "end": 178.0,
+            "text": " if the area of i is equal to k"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 178.0,
+            "end": 181.0,
+            "text": " if it is equal then we will return to i"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 181.0,
+            "end": 183.0,
+            "text": " otherwise we will call it again"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 183.0,
+            "end": 185.0,
+            "text": " first occurrence will call"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 185.0,
+            "end": 187.0,
+            "text": " we will pass the area"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 187.0,
+            "end": 189.0,
+            "text": " and then we will pass it"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 189.0,
+            "end": 191.0,
+            "text": " and we will return to valid index"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 191.0,
+            "end": 193.0,
+            "text": " or we will return to this valid index"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 193.0,
+            "end": 195.0,
+            "text": " and return to that same name"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 195.0,
+            "end": 197.0,
+            "text": " so we will return to return"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 197.0,
+            "end": 199.0,
+            "text": " so we will have a very simple record"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 199.0,
+            "end": 201.0,
+            "text": " we will write the record"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 201.0,
+            "end": 203.0,
+            "text": " public static int"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 203.0,
+            "end": 205.0,
+            "text": " this int represents the index value"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 205.0,
+            "end": 207.0,
+            "text": " which will be our first occurrence"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 207.0,
+            "end": 210.0,
+            "text": " which will be our key"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 210.0,
+            "end": 213.0,
+            "text": " let us name the function first occurrence"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 213.0,
+            "end": 217.0,
+            "text": " we will have an area"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 217.0,
+            "end": 219.0,
+            "text": " and we will have a key"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 219.0,
+            "end": 221.0,
+            "text": " and we will pass it"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 221.0,
+            "end": 223.0,
+            "text": " with the integer i"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 223.0,
+            "end": 225.0,
+            "text": " we will check the index"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 225.0,
+            "end": 229.0,
+            "text": " first we will check the area of i"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 229.0,
+            "end": 232.0,
+            "text": " as we have a key"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 232.0,
+            "end": 234.0,
+            "text": " we will return to our i"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 234.0,
+            "end": 237.0,
+            "text": " where we have first case"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 237.0,
+            "end": 239.0,
+            "text": " if we have a key"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 239.0,
+            "end": 241.0,
+            "text": " we have started with the 0"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 241.0,
+            "end": 243.0,
+            "text": " and we will not check the index"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 243.0,
+            "end": 245.0,
+            "text": " because we will not have to do it"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 245.0,
+            "end": 247.0,
+            "text": " because if we do it in return"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 247.0,
+            "end": 249.0,
+            "text": " then we will return to this same name"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 249.0,
+            "end": 251.0,
+            "text": " and we will not check the area of the next one"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 251.0,
+            "end": 253.0,
+            "text": " if we do not get it"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 253.0,
+            "end": 255.0,
+            "text": " then we will call it"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 255.0,
+            "end": 257.0,
+            "text": " for first occurrence"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 257.0,
+            "end": 259.0,
+            "text": " k and i plus 1"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 259.0,
+            "end": 263.0,
+            "text": " and the area that we will return"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 263.0,
+            "end": 265.0,
+            "text": " will return it"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 265.0,
+            "end": 267.0,
+            "text": " based on the case"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 267.0,
+            "end": 269.0,
+            "text": " if we have a key"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 269.0,
+            "end": 271.0,
+            "text": " our i value"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 271.0,
+            "end": 273.0,
+            "text": " will be the equal of the array."
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 273.0,
+            "end": 275.0,
+            "text": " if we check all the index"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 275.0,
+            "end": 277.0,
+            "text": " then we will return it"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 277.0,
+            "end": 279.0,
+            "text": " with the minus 1"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 279.0,
+            "end": 281.0,
+            "text": " let us make our area"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 281.0,
+            "end": 283.0,
+            "text": " with the main function"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 283.0,
+            "end": 287.0,
+            "text": " let us call it"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 287.0,
+            "end": 289.0,
+            "text": " first occurrence"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 289.0,
+            "end": 291.0,
+            "text": " for array"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 291.0,
+            "end": 293.0,
+            "text": " let us pass the key"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 293.0,
+            "end": 295.0,
+            "text": " with the 0"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 295.0,
+            "end": 297.0,
+            "text": " save and run"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 297.0,
+            "end": 299.0,
+            "text": " so the index"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 299.0,
+            "end": 301.0,
+            "text": " is the first time that we have"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 301.0,
+            "end": 303.0,
+            "text": " in our array"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 303.0,
+            "end": 305.0,
+            "text": " that is the first time"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 305.0,
+            "end": 307.0,
+            "text": " we have to analyze the call stack"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 307.0,
+            "end": 309.0,
+            "text": " in the same form"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 309.0,
+            "end": 311.0,
+            "text": " what happened to us"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 311.0,
+            "end": 313.0,
+            "text": " what is the main function"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 313.0,
+            "end": 315.0,
+            "text": " the array"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 315.0,
+            "end": 317.0,
+            "text": " is"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 317.0,
+            "end": 319.0,
+            "text": " the first time"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 319.0,
+            "end": 321.0,
+            "text": " we have to call it"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 321.0,
+            "end": 323.0,
+            "text": " for the first time"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 323.0,
+            "end": 325.0,
+            "text": " the array"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 325.0,
+            "end": 327.0,
+            "text": " is equal to 0"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 327.0,
+            "end": 329.0,
+            "text": " so the main"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 329.0,
+            "end": 331.0,
+            "text": " is called"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 331.0,
+            "end": 333.0,
+            "text": " first occurrence"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 333.0,
+            "end": 335.0,
+            "text": " i is equal to 0"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 335.0,
+            "end": 337.0,
+            "text": " and the key"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 337.0,
+            "end": 339.0,
+            "text": " is equal to 5"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 339.0,
+            "end": 341.0,
+            "text": " so the array"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 341.0,
+            "end": 343.0,
+            "text": " is not true"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 343.0,
+            "end": 345.0,
+            "text": " we have called the upper level"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 345.0,
+            "end": 347.0,
+            "text": " we have called the first occurrence"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 347.0,
+            "end": 349.0,
+            "text": " for i plus 1"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 349.0,
+            "end": 351.0,
+            "text": " so the next level"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 351.0,
+            "end": 353.0,
+            "text": " i value 1"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 353.0,
+            "end": 355.0,
+            "text": " as i value 1"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 355.0,
+            "end": 357.0,
+            "text": " the second one is not true"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 357.0,
+            "end": 359.0,
+            "text": " so the upper level"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 359.0,
+            "end": 361.0,
+            "text": " is called for first occurrence"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 361.0,
+            "end": 363.0,
+            "text": " i is equal to 2"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 363.0,
+            "end": 365.0,
+            "text": " for i is equal to 2"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 365.0,
+            "end": 367.0,
+            "text": " as we have come here"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 367.0,
+            "end": 369.0,
+            "text": " the true condition"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 369.0,
+            "end": 371.0,
+            "text": " is called for i is equal to 3"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 371.0,
+            "end": 373.0,
+            "text": " i is equal to 3"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 373.0,
+            "end": 375.0,
+            "text": " we will check the key"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 375.0,
+            "end": 377.0,
+            "text": " for the array of 5"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 377.0,
+            "end": 379.0,
+            "text": " we have not got the index"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 379.0,
+            "end": 381.0,
+            "text": " so we have called the upper level"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 381.0,
+            "end": 383.0,
+            "text": " i is equal to 4"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 383.0,
+            "end": 385.0,
+            "text": " first occurrence"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 385.0,
+            "end": 387.0,
+            "text": " we have called the first occurrence"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 387.0,
+            "end": 389.0,
+            "text": " we will compare the value"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 389.0,
+            "end": 391.0,
+            "text": " we will do the same"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 391.0,
+            "end": 393.0,
+            "text": " index"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 393.0,
+            "end": 395.0,
+            "text": " the fourth index"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 395.0,
+            "end": 397.0,
+            "text": " is the return of this value"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 397.0,
+            "end": 399.0,
+            "text": " the upper call"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 399.0,
+            "end": 401.0,
+            "text": " is gone"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 401.0,
+            "end": 403.0,
+            "text": " we will return it"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 403.0,
+            "end": 405.0,
+            "text": " we will return it"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 405.0,
+            "end": 407.0,
+            "text": " we will return it"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 407.0,
+            "end": 409.0,
+            "text": " to the same index"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 409.0,
+            "end": 411.0,
+            "text": " we will return it"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 411.0,
+            "end": 413.0,
+            "text": " we will return it"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 413.0,
+            "end": 415.0,
+            "text": " to the final"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 415.0,
+            "end": 417.0,
+            "text": " worst complexity"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 417.0,
+            "end": 419.0,
+            "text": " we will get the array"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 419.0,
+            "end": 421.0,
+            "text": " and the key"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 421.0,
+            "end": 423.0,
+            "text": " is not exist"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 423.0,
+            "end": 425.0,
+            "text": " in that case"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 425.0,
+            "end": 427.0,
+            "text": " the time complexity will be"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 427.0,
+            "end": 429.0,
+            "text": " nk equal"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 429.0,
+            "end": 431.0,
+            "text": " we will get the call"
+        },
+        {
+            "number": " 9",
+            "title": "First Occurrence",
+            "start": 431.0,
+            "end": 433.0,
+            "text": " and the same size"
+        }
+    ],
+    "text": " Next question is, which we will talk about, is the right function to find the first occurrence of an element in an array. In question, we will give an array, let's suppose we have an array given, which is the elements in which we have 8, 3, 6, 9, 5, 10, 2, 5 and 3. Now we have to find out which one we want to find, which is our 5. Now we have to return the index on the first index, which is the first time we have to check the index in this array. So, index is equal to 4. And where is the second time we have to check the index is equal to 7. So, we have to return 7, we have to return index is equal to 4. So, we will write a recursive function. So, we will write a recursive function in this way, we will start with index 0, first we will check on 0, if we do not exist on 0, then we will search the next array. If we do exist on 0, then we will return from there 0, because it is the lowest index where we can exist. Then we will write a I plus 1 for I plus 1. So, we will understand the diagram, so where we will write the first call, we will check first. I is equal to 0. If we do exist here or not, then we will write a call for each other. I plus 1 for call, I is equal to 1. If we do not do exist here, then we will write a call for the level. I is equal to 2. We will write a call for the level. I is equal to 3. Now, I is equal to 4, for call, we will do exist. and what we will do is return to our index what we will return to i is equal to 4 so we will return to 4 and this will return to 4 and this will return to 4 if we don't do 5 in this area we don't do 5 in our area we will take 5 here and this is 5 here so what we have to do is check the base case if we come here where our i value is 9 which is equal to n minus 1 n value is 10 so if we don't get any key here then we have to return to minus 1 why do we return to minus 1? because we will show the minus 1 that we are not found because minus 1 is not valid index and this valid index that is minus 1 when we return to value we will do a different way that we don't even exist in the area so how do we write the function? we have to find the function first occurrence we will have our area and i value first we will check if the area of i is equal to k if it is equal then we will return to i otherwise we will call it again first occurrence will call we will pass the area and then we will pass it and we will return to valid index or we will return to this valid index and return to that same name so we will return to return so we will have a very simple record we will write the record public static int this int represents the index value which will be our first occurrence which will be our key let us name the function first occurrence we will have an area and we will have a key and we will pass it with the integer i we will check the index first we will check the area of i as we have a key we will return to our i where we have first case if we have a key we have started with the 0 and we will not check the index because we will not have to do it because if we do it in return then we will return to this same name and we will not check the area of the next one if we do not get it then we will call it for first occurrence k and i plus 1 and the area that we will return will return it based on the case if we have a key our i value will be the equal of the array. if we check all the index then we will return it with the minus 1 let us make our area with the main function let us call it first occurrence for array let us pass the key with the 0 save and run so the index is the first time that we have in our array that is the first time we have to analyze the call stack in the same form what happened to us what is the main function the array is the first time we have to call it for the first time the array is equal to 0 so the main is called first occurrence i is equal to 0 and the key is equal to 5 so the array is not true we have called the upper level we have called the first occurrence for i plus 1 so the next level i value 1 as i value 1 the second one is not true so the upper level is called for first occurrence i is equal to 2 for i is equal to 2 as we have come here the true condition is called for i is equal to 3 i is equal to 3 we will check the key for the array of 5 we have not got the index so we have called the upper level i is equal to 4 first occurrence we have called the first occurrence we will compare the value we will do the same index the fourth index is the return of this value the upper call is gone we will return it we will return it we will return it to the same index we will return it we will return it to the final worst complexity we will get the array and the key is not exist in that case the time complexity will be nk equal we will get the call and the same size"
+}

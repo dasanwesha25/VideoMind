@@ -1,0 +1,7 @@
+So you're wondering where the topic of stacks is being covered in this course, right? Well, it looks like the concept of stacks is being introduced in a few different videos.
+
+The topic of stacks is being covered in videos 2, 10, and also reappeared in video 2 as well, starting from 283.96 seconds. If you're interested in learning more about stacks, I'd recommend checking out video 2.
+
+In video 2, we're explaining that stacks are like books on a shelf, where each book represents a function call, and we can think of the stack as a vertical arrangement of these books. We also talk about how the memory inside the stack is actually stored in a stack, which is a key concept to understand when working with functions and recursion.
+
+If you want to learn more about stacks and how they work, I'd recommend checking out video 2. Let me know if you have any other questions!
